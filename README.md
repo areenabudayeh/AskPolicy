@@ -6,7 +6,7 @@ Nobody reads these documents, and when you do need an answer for whether a docum
 
 This repository contains the code for the paper:
 
-> Abudayeh, A., Shraim, L., Abdelhaq, H., Alia, A. *AskPolicy: Hybrid Retrieval and Domain-Adapted Generation for Question Answering over Corporate Legal Documents.* 2026.
+> Areen Abudayeh, Lama Shraim, Hamed Abdelhaq, Ahemd Alia. *AskPolicy: Hybrid Retrieval and Domain-Adapted Generation for Question Answering over Corporate Legal Documents.* 2026.
 > [link / DOI to be added]
 
 ## How it works
