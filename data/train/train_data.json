@@ -1,0 +1,1521 @@
+[
+  {
+    "instruction": "Does using Apple’s warranty mean I give up my legal rights?",
+    "input": "[Document Clause]: For consumers, who are covered by consumer protection laws or regulations in their country of purchase or, if different, their country of residence, the benefits conferred by this warranty are in addition to all rights and remedies conveyed by such consumer protection laws and regulations.",
+    "output": "No, Apple’s warranty is in addition to your legal rights, not a replacement for them."
+  },
+  {
+    "instruction": "Does Apple’s warranty leave my legal rights untouched?",
+    "input": "[Document Clause]: This warranty does not exclude, limit or suspend any rights of consumers arising out of nonconformity with a sales contract.",
+    "output": "Yes, consumer protection laws provide rights that are not excluded or limited by Apple’s warranty."
+  },
+  {
+    "instruction": "Can they set a time limit on legal warranties?",
+    "input": "[Document Clause]: Apple disclaims statutory and implied warranties to the extent permitted by law, and in so far as such warranties cannot be disclaimed, all such warranties shall to the extent permitted by law be limited in duration to the duration of the express warranty described below and to the repair or replacement service as determined by Apple in its sole discretion.",
+    "output": "Apple can only limit implied warranties where the law allows it. In some places, those limitations don’t apply."
+  },
+  {
+    "instruction": "If local law forbids warranty limits, what does Apple do?",
+    "input": "[Document Clause]: Some states (countries and provinces) do not allow limitations on how long an implied warranty or condition may last, so the limitations described above may not apply to you.",
+    "output": "In that case, Apple’s limitations on warranty length may not apply to you."
+  },
+  {
+    "instruction": "Does Apple’s warranty include all my legal protections?",
+    "input": "[Document Clause]: The benefits conferred by this warranty are in addition to all rights and remedies conveyed by such consumer protection laws and regulations.",
+    "output": "No, this warranty adds to the rights you already have under consumer protection laws but doesn’t replace them."
+  },
+  {
+    "instruction": "Is Apple allowed to deny some implied warranties?",
+    "input": "[Document Clause]: Apple disclaims statutory and implied warranties to the extent permitted by law.",
+    "output": "Yes, but only if the law in your country allows such disclaimers."
+  },
+  {
+    "instruction": "Who decides whether my product should be repaired or replaced?",
+    "input": "[Document Clause]: All such warranties shall to the extent permitted by law be limited in duration to the duration of the express warranty described below and to the repair or replacement service as determined by Apple in its sole discretion.",
+    "output": "Apple decides whether to repair or replace the product, at its own discretion."
+  },
+  {
+    "instruction": "What laws apply to this limited warranty?",
+    "input": "[Document Clause]: This limited warranty is governed by and construed under the laws of the country in which the product purchase took place.",
+    "output": "The laws of the country where the product was purchased govern the warranty."
+  },
+  {
+    "instruction": "Will I have different rights depending on where I live?",
+    "input": "[Document Clause]: This warranty gives you specific legal rights, and you may also have other rights that vary from state to state (or by country or province).",
+    "output": "Yes, your rights may vary depending on your country, state, or province."
+  },
+  {
+    "instruction": "If I live in a different country than where I bought the product, which law applies?",
+    "input": "[Document Clause]: This limited warranty is governed by and construed under the laws of the country in which the product purchase took place.",
+    "output": "The law of the country where the product was purchased governs the warranty, even if you live elsewhere."
+  },
+  {
+    "instruction": "Does the warranty override my country’s consumer protection laws?",
+    "input": "[Document Clause]: The benefits conferred by this warranty are in addition to all rights and remedies conveyed by such consumer protection laws and regulations.",
+    "output": "No, the warranty is in addition to your country's consumer protection laws."
+  },
+  {
+    "instruction": "Is the Apple warranty uniform across all countries?",
+    "input": "[Document Clause]: Some states (countries and provinces) do not allow limitations on how long an implied warranty or condition may last, so the limitations described above may not apply to you.",
+    "output": "No, the warranty may vary based on local laws in each country or region."
+  },
+  {
+    "instruction": "Can Apple disclaim all warranties?",
+    "input": "[Document Clause]: Apple disclaims statutory and implied warranties to the extent permitted by law.",
+    "output": "No, Apple can only disclaim implied warranties where allowed by law."
+  },
+  {
+    "instruction": "What if the implied warranty is longer in my country than Apple's warranty?",
+    "input": "[Document Clause]: Some states (countries and provinces) do not allow limitations on how long an implied warranty or condition may last, so the limitations described above may not apply to you.",
+    "output": "In that case, the longer duration might apply to you if your country doesn’t allow limitations."
+  },
+  {
+    "instruction": "Who provides the warranty based on my location?",
+    "input": "[Document Clause]: Apple, the warrantor under this limited warranty, is identified at the end of this document according to the country or region in which the product purchase took place.",
+    "output": "Apple is the warrantor, and the specific entity responsible is listed at the end of the warranty document based on your location."
+  },
+  {
+    "instruction": "How long is the Apple hardware warranty valid?",
+    "input": "[Document Clause]: Apple, as defined in the table below, warrants this Apple-branded hardware product against defects in materials and workmanship under normal use for a period of ONE (1) YEAR from the date of retail purchase by the original end-user purchaser (“Warranty Period”).",
+    "output": "The warranty is valid for one year from the date of retail purchase by the original buyer."
+  },
+  {
+    "instruction": "What does Apple do if my product is defective during the warranty period?",
+    "input": "[Document Clause]: If a hardware defect arises and a valid claim is received within the Warranty Period, at its option and to the extent permitted by law, Apple will either (1) repair the hardware defect at no charge, using new parts or refurbished parts that are equivalent to new in performance and reliability, (2) exchange the product with a product that is new or refurbished that is equivalent to new in performance and reliability and is at least functionally equivalent to the original product, or (3) refund the purchase price of the product.",
+    "output": "Apple may repair, replace, or refund your product, depending on the situation and local laws."
+  },
+  {
+    "instruction": "Is the replacement product new or used?",
+    "input": "[Document Clause]: Apple will either (1) repair the hardware defect at no charge, using new parts or refurbished parts that are equivalent to new in performance and reliability, (2) exchange the product with a product that is new or refurbished that is equivalent to new in performance and reliability and is at least functionally equivalent to the original product.",
+    "output": "Apple may use new or refurbished products that perform like new."
+  },
+  {
+    "instruction": "If I get a replacement, does it come with a new warranty?",
+    "input": "[Document Clause]: A replacement product or part, including a user-installable part that has been installed in accordance with instructions provided by Apple, assumes the remaining warranty of the original product or ninety (90) days from the date of replacement or repair, whichever provides longer coverage for you.",
+    "output": "The replacement inherits the remaining warranty of the original product or gets 90 days, whichever is longer."
+  },
+  {
+    "instruction": "Can I install replacement parts myself under warranty?",
+    "input": "[Document Clause]: Apple may request that you replace defective parts with user-installable new or refurbished parts that Apple provides in fulfillment of its warranty obligation.",
+    "output": "Yes, Apple may provide user-installable parts with instructions for self-replacement."
+  },
+  {
+    "instruction": "What happens to the defective item after Apple gives me a new one?",
+    "input": "[Document Clause]: When a product or part is exchanged, any replacement item becomes your property and the replaced item becomes Apple’s property.",
+    "output": "The replaced item becomes Apple’s property."
+  },
+  {
+    "instruction": "Will Apple always repair the product if it breaks?",
+    "input": "[Document Clause]: If a hardware defect arises and a valid claim is received within the Warranty Period, at its option and to the extent permitted by law, Apple will either (1) repair the hardware defect at no charge, using new parts or refurbished parts that are equivalent to new in performance and reliability, (2) exchange the product with a product that is new or refurbished that is equivalent to new in performance and reliability and is at least functionally equivalent to the original product, or (3) refund the purchase price of the product.",
+    "output": "Not necessarily. Apple can choose to repair, replace, or refund the product at its discretion."
+  },
+  {
+    "instruction": "Does Apple have to use new parts for repairs?",
+    "input": "[Document Clause]: Apple will either (1) repair the hardware defect at no charge, using new parts or refurbished parts that are equivalent to new in performance and reliability.",
+    "output": "No, Apple can use refurbished parts that are equivalent to new in performance."
+  },
+  {
+    "instruction": "Can I get a refund if my product is defective?",
+    "input": "[Document Clause]: If a hardware defect arises and a valid claim is received within the Warranty Period, at its option and to the extent permitted by law, Apple will either... or (3) refund the purchase price of the product.",
+    "output": "Yes, if the defect occurs during the warranty period, Apple may issue a refund instead of a repair or replacement."
+  },
+  {
+    "instruction": "Do I keep the refund and the product if Apple refunds me?",
+    "input": "[Document Clause]: When a refund is given, the product for which the refund is provided must be returned to Apple and becomes Apple’s property.",
+    "output": "No, the product must be returned to Apple and becomes Apple’s property after a refund."
+  },
+  {
+    "instruction": "What if my product breaks after one year?",
+    "input": "[Document Clause]: Apple, as defined in the table below, warrants this Apple-branded hardware product against defects in materials and workmanship under normal use for a period of ONE (1) YEAR from the date of retail purchase by the original end-user purchaser (“Warranty Period”).",
+    "output": "Apple’s warranty covers only one year from the purchase date. After that, coverage ends unless local laws provide additional rights."
+  },
+  {
+    "instruction": "Is the Apple warranty applicable to second-hand users?",
+    "input": "[Document Clause]: Apple, as defined in the table below, warrants this Apple-branded hardware product against defects in materials and workmanship under normal use for a period of ONE (1) YEAR from the date of retail purchase by the original end-user purchaser (“Warranty Period”).",
+    "output": "No, the warranty is for the original end-user purchaser only."
+  },
+  {
+    "instruction": "Can I use warranty parts for other Apple products?",
+    "input": "[Document Clause]: Parts provided by Apple in fulfillment of its warranty obligation must be used in products for which warranty service is claimed.",
+    "output": "No, parts provided under warranty must be used only in the product for which the service was claimed."
+  },
+  {
+    "instruction": "What defines 'normal use' under Apple’s warranty?",
+    "input": "[Document Clause]: Apple, as defined in the table below, warrants this Apple-branded hardware product against defects in materials and workmanship under normal use for a period of ONE (1) YEAR",
+    "output": "The warranty covers defects under normal usage conditions, but what qualifies as 'normal use' is determined by Apple and the law."
+  },
+  {
+    "instruction": "Can Apple decline to fulfill the warranty if I misuse the product?",
+    "input": "[Document Clause]: Apple, as defined in the table below, warrants this Apple-branded hardware product against defects in materials and workmanship under normal use",
+    "output": "Yes, Apple’s warranty only covers defects under normal use. Misuse may void your warranty."
+  },
+  {
+    "instruction": "Does Apple's warranty cover software issues?",
+    "input": "[Document Clause]: This Limited Warranty applies only to the hardware product manufactured by or for Apple that can be identified by the “Apple” trademark, trade name, or logo affixed to it. The Limited Warranty does not apply to any non-Apple hardware product or any software, even if packaged or sold with the Apple hardware. Manufacturers, suppliers, or publishers, other than Apple, may provide their own warranties to the end user purchaser, but Apple, in so far as permitted by law, provides their products “as is”. Software distributed by Apple with or without the Apple brand name (including, but not limited to system software) is not covered under this Limited Warranty. Refer to the licensing agreement accompanying the software for details of your rights with respect to its use.",
+    "output": "No, Apple’s warranty does not cover software, even if it is distributed by Apple."
+  },
+  {
+    "instruction": "Is cosmetic damage like scratches covered under warranty?",
+    "input": "[Document Clause]: This warranty does not apply: (a) to consumable parts, such as batteries, or protective coatings designed to diminish over time unless failure has occurred due to a defect in materials or workmanship; (b) to cosmetic damage, including but not limited to scratches, dents, and broken plastic on ports; (c) to damage caused by use with non-Apple products; (d) to damage caused by accident, abuse, misuse, liquid contact, fire, earthquake or other external causes; (e) to damage caused by operating the product outside the permitted or intended uses described by Apple; (f) to damage caused by service (including upgrades and expansions) performed by anyone who is not a representative of Apple or an Apple Authorized Service Provider (“AASP”); (g) to a product or part that has been modified to alter functionality or capability without the written permission of Apple; (h) to defects caused by normal wear and tear or otherwise due to the normal aging of the product or (i) if any Apple serial number has been removed or defaced.",
+    "output": "No, cosmetic damage such as scratches, dents, or broken plastic is not covered under Apple’s warranty."
+  },
+  {
+    "instruction": "Can I repair my Apple product myself without voiding the warranty?",
+    "input": "[Document Clause]: Important: Do not open the hardware product. Opening the hardware product may cause damage that is not covered by this warranty. Only Apple or an AASP should perform service on this hardware product.",
+    "output": "No, opening or repairing the product yourself may void the warranty. Only Apple or authorized providers should perform service."
+  },
+  {
+    "instruction": "Is damage from an earthquake covered by Apple’s warranty?",
+    "input": "[Document Clause]: This warranty does not apply: (a) to consumable parts, such as batteries, or protective coatings designed to diminish over time unless failure has occurred due to a defect in materials or workmanship; (b) to cosmetic damage, including but not limited to scratches, dents, and broken plastic on ports; (c) to damage caused by use with non-Apple products; (d) to damage caused by accident, abuse, misuse, liquid contact, fire, earthquake or other external causes; (e) to damage caused by operating the product outside the permitted or intended uses described by Apple; (f) to damage caused by service (including upgrades and expansions) performed by anyone who is not a representative of Apple or an Apple Authorized Service Provider (“AASP”); (g) to a product or part that has been modified to alter functionality or capability without the written permission of Apple; (h) to defects caused by normal wear and tear or otherwise due to the normal aging of the product or (i) if any Apple serial number has been removed or defaced.",
+    "output": "No, damage caused by natural disasters such as earthquakes is excluded from Apple’s warranty coverage."
+  },
+  {
+    "instruction": "What happens if my Apple product’s serial number is removed?",
+    "input": "[Document Clause]: This warranty does not apply: (a) to consumable parts, such as batteries, or protective coatings designed to diminish over time unless failure has occurred due to a defect in materials or workmanship; (b) to cosmetic damage, including but not limited to scratches, dents, and broken plastic on ports; (c) to damage caused by use with non-Apple products; (d) to damage caused by accident, abuse, misuse, liquid contact, fire, earthquake or other external causes; (e) to damage caused by operating the product outside the permitted or intended uses described by Apple; (f) to damage caused by service (including upgrades and expansions) performed by anyone who is not a representative of Apple or an Apple Authorized Service Provider (“AASP”); (g) to a product or part that has been modified to alter functionality or capability without the written permission of Apple; (h) to defects caused by normal wear and tear or otherwise due to the normal aging of the product or (i) if any Apple serial number has been removed or defaced.",
+    "output": "If the serial number is removed or defaced, Apple’s warranty will no longer apply."
+  },
+  {
+    "instruction": "Does Apple guarantee the product will work without any interruptions or errors?",
+    "input": "[Document Clause]: Apple does not warrant that the operation of the product will be uninterrupted or error-free. Apple is not responsible for damage arising from failure to follow instructions relating to the product’s use.",
+    "output": "No, Apple does not guarantee that the product will function without interruptions or errors."
+  },
+  {
+    "instruction": "Is Apple responsible for recovering lost data after repair?",
+    "input": "[Document Clause]: EXCEPT AS PROVIDED IN THIS WARRANTY AND TO THE MAXIMUM EXTENT PERMITTED BY LAW, APPLE IS NOT RESPONSIBLE FOR DIRECT, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES RESULTING FROM ANY BREACH OF WARRANTY OR CONDITION, OR UNDER ANY OTHER LEGAL THEORY, INCLUDING BUT NOT LIMITED TO LOSS OF USE; LOSS OF REVENUE; LOSS OF ACTUAL OR ANTICIPATED PROFITS (INCLUDING LOSS OF PROFITS ON CONTRACTS); LOSS OF THE USE OF MONEY; LOSS OF ANTICIPATED SAVINGS; LOSS OF BUSINESS; LOSS OF OPPORTUNITY; LOSS OF GOODWILL; LOSS OF REPUTATION; LOSS OF, DAMAGE TO, COMPROMISE OR CORRUPTION OF DATA; OR ANY INDIRECT OR CONSEQUENTIAL LOSS OR DAMAGE HOWSOEVER CAUSED INCLUDING THE REPLACEMENT OF EQUIPMENT AND PROPERTY, ANY COSTS OF RECOVERING, PROGRAMMING OR REPRODUCING ANY PROGRAM OR DATA STORED IN OR USED WITH THE APPLE PRODUCT AND ANY FAILURE TO MAINTAIN THE CONFIDENTIALITY OF DATA STORED ON THE PRODUCT.",
+    "output": "No, Apple is not responsible for any costs related to data loss, recovery, or reinstallation during warranty service."
+  },
+  {
+    "instruction": "Can Apple employees modify the terms of the warranty?",
+    "input": "[Document Clause]: No Apple reseller, agent, or employee is authorized to make any modification, extension, or addition to this warranty. If any term is held to be illegal or unenforceable, the legality or enforceability of the remaining terms shall not be affected or impaired.",
+    "output": "No, Apple employees are not authorized to change or extend the warranty terms."
+  },
+  {
+    "instruction": "What are the legal limitations of Apple's warranty regarding implied warranties?",
+    "input": "[Document Clause]: TO THE EXTENT PERMITTED BY LAW, THIS WARRANTY AND THE REMEDIES SET FORTH ABOVE ARE EXCLUSIVE AND IN LIEU OF ALL OTHER WARRANTIES, REMEDIES AND CONDITIONS, WHETHER ORAL, WRITTEN, STATUTORY, EXPRESS OR IMPLIED. AS PERMITTED BY APPLICABLE LAW, APPLE SPECIFICALLY DISCLAIMS ANY AND ALL STATUTORY OR IMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION, WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE AND WARRANTIES AGAINST HIDDEN OR LATENT DEFECTS. IF APPLE CANNOT LAWFULLY DISCLAIM STATUTORY OR IMPLIED WARRANTIES THEN TO THE EXTENT PERMITTED BY LAW, ALL SUCH WARRANTIES SHALL BE LIMITED IN DURATION TO THE DURATION OF THE EXPRESS WARRANTY AND TO THE REPAIR OR REPLACEMENT SERVICE AS DETERMINED BY APPLE IN ITS SOLE DISCRETION.",
+    "output": "Apple disclaims all statutory and implied warranties to the extent allowed by law, and where it cannot do so, those warranties will be limited to the duration of the express warranty and the repair or replacement services provided by Apple."
+  },
+  {
+    "instruction": "Are there any exceptions to the duration limits on implied warranties?",
+    "input": "[Document Clause]: TO THE EXTENT PERMITTED BY LAW, THIS WARRANTY AND THE REMEDIES SET FORTH ABOVE ARE EXCLUSIVE AND IN LIEU OF ALL OTHER WARRANTIES, REMEDIES AND CONDITIONS, WHETHER ORAL, WRITTEN, STATUTORY, EXPRESS OR IMPLIED. AS PERMITTED BY APPLICABLE LAW, APPLE SPECIFICALLY DISCLAIMS ANY AND ALL STATUTORY OR IMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION, WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE AND WARRANTIES AGAINST HIDDEN OR LATENT DEFECTS. IF APPLE CANNOT LAWFULLY DISCLAIM STATUTORY OR IMPLIED WARRANTIES THEN TO THE EXTENT PERMITTED BY LAW, ALL SUCH WARRANTIES SHALL BE LIMITED IN DURATION TO THE DURATION OF THE EXPRESS WARRANTY AND TO THE REPAIR OR REPLACEMENT SERVICE AS DETERMINED BY APPLE IN ITS SOLE DISCRETION. SOME STATES (COUNTRIES AND PROVINCES) DO NOT ALLOW LIMITATIONS ON HOW LONG AN IMPLIED WARRANTY OR CONDITION MAY LAST, SO THE LIMITATIONS DESCRIBED ABOVE MAY NOT APPLY TO YOU.",
+    "output": "Yes, some states, countries, or provinces do not allow limitations on the duration of implied warranties, so the limitations described may not apply in those regions."
+  },
+  {
+    "instruction": "How does Apple's warranty apply in case of modification or unauthorized repair of a product?",
+    "input": "[Document Clause]: This warranty does not apply: (f) to damage caused by service (including upgrades and expansions) performed by anyone who is not a representative of Apple or an Apple Authorized Service Provider (“AASP”); (g) to a product or part that has been modified to alter functionality or capability without the written permission of Apple.",
+    "output": "Apple's warranty does not cover damage caused by unauthorized service or repairs performed by individuals or entities not authorized by Apple, nor does it apply to products that have been modified without Apple’s written permission."
+  },
+  {
+    "instruction": "What happens if I receive a replacement product or part under warranty?",
+    "input": "[Document Clause]: A replacement product or part, including a user-installable part that has been installed in accordance with instructions provided by Apple, assumes the remaining warranty of the original product or ninety (90) days from the date of replacement or repair, whichever provides longer coverage for you.",
+    "output": "If you receive a replacement product or part, it will either assume the remaining warranty of your original product or be covered for 90 days from the replacement or repair date, whichever is longer."
+  },
+  {
+    "instruction": "What does Apple's warranty exclude in terms of third-party product compatibility?",
+    "input": "[Document Clause]: Third party applications installed on the hardware may not be compatible or work with the hardware as a result of the system software update.",
+    "output": "Apple’s warranty excludes compatibility with third-party applications that may not work with the hardware after a system software update."
+  },
+  {
+    "instruction": "What should I do before seeking warranty service from Apple?",
+    "input": "[Document Clause]: Please access and review the online help resources described below before seeking warranty service. If the product is still not functioning properly after making use of these resources, please contact the Apple representatives or, if applicable, an Apple owned retail store (“Apple Retail”) or an AASP using the information provided below.",
+    "output": "Before seeking warranty service, review the online help resources. If the issue persists, contact Apple representatives, an Apple Retail store, or an Authorized Service Provider (AASP)."
+  },
+  {
+    "instruction": "How can I contact Apple for warranty service?",
+    "input": "[Document Clause]: Please contact the Apple representatives or, if applicable, an Apple owned retail store (“Apple Retail”) or an AASP using the information provided below.",
+    "output": "You can contact Apple representatives, an Apple Retail store, or an Authorized Service Provider (AASP) for warranty service."
+  },
+  {
+    "instruction": "What might I need to pay when contacting Apple for warranty service?",
+    "input": "[Document Clause]: When contacting Apple via telephone, other charges may apply depending on your location.",
+    "output": "When contacting Apple by phone, additional charges may apply based on your location."
+  },
+  {
+    "instruction": "What should I do to receive warranty service for my Apple product?",
+    "input": "[Document Clause]: Apple will provide warranty service either (i) at an Apple Retail or AASP location, where service is performed at the location, or the Apple Retail or AASP may send the product to an Apple repair service location for service, (ii) by sending you prepaid way bills (and if you no longer have the original packaging, Apple may send you packaging material) to enable you to ship the product to Apple’s repair service location for service, or (iii) by sending you user-installable new or refurbished replacement product or parts to enable you to service or exchange your own product (“DIY Service”).",
+    "output": "To receive warranty service, Apple may provide service at an Apple Retail or AASP location, send you prepaid shipping labels for shipping the product to a service location, or send user-installable replacement parts for you to service your product yourself."
+  },
+  {
+    "instruction": "What happens if I fail to return the replaced product or part after using the DIY Service?",
+    "input": "[Document Clause]: If you fail to return the replaced product or part as instructed or the replaced product or part is not eligible for warranty service, Apple will charge the credit card for the authorized amount.",
+    "output": "If you fail to return the replaced product or part or if it's ineligible for warranty service, Apple will charge your credit card for the authorized amount."
+  },
+  {
+    "instruction": "What are the responsibilities when seeking warranty service outside the country of purchase?",
+    "input": "[Document Clause]: If you seek service in a country that is not the country of original purchase, you will comply with all applicable import and export laws and regulations and be responsible for all custom duties, V.A.T. and other associated taxes and charges.",
+    "output": "When seeking warranty service in a country other than the one of original purchase, you must comply with import/export laws and are responsible for any customs duties, VAT, and other taxes or charges."
+  },
+  {
+    "instruction": "What is the procedure for obtaining warranty service if I opt for DIY Service?",
+    "input": "[Document Clause]: Apple may send you user-installable new or refurbished replacement product or parts to enable you to service or exchange your own product (“DIY Service”). Upon receipt of the replacement product or part, the original product or part becomes the property of Apple and you agree to follow instructions, including, if required, arranging the return of original product or part to Apple in a timely manner.",
+    "output": "If you choose DIY Service, Apple will send you replacement parts. You must follow instructions, including returning the original product or part to Apple, and Apple will take ownership of the returned items."
+  },
+  {
+    "instruction": "How does Apple manage warranty service across different countries or regions?",
+    "input": "[Document Clause]: Apple may restrict service to the country where Apple or its Authorized Distributors originally sold the hardware product. Service options, parts availability and response times may vary according to the country in which service is requested.",
+    "output": "Apple may limit warranty service to the country where the product was originally purchased, and service options, parts availability, and response times can vary depending on the country."
+  },
+  {
+    "instruction": "What will happen if I need to seek warranty service but do not have the original packaging?",
+    "input": "[Document Clause]: If you no longer have the original packaging, Apple may send you packaging material to enable you to ship the product to Apple’s repair service location for service.",
+    "output": "If you no longer have the original packaging, Apple will send you packaging materials to help you ship the product for warranty service."
+  },
+  {
+    "instruction": "What should I do before delivering my Apple product for warranty service?",
+    "input": "[Document Clause]: DATA BACKUP. If your product is capable of storing software programs, data and other information, you should protect its contents against possible operational failures. Before you deliver your product for warranty service it is your responsibility to keep a separate backup copy of the contents, remove all personal information and data that you want to protect and disable any security passwords.",
+    "output": "You should create a backup, remove personal data, and disable security passwords before delivering your product for warranty service."
+  },
+  {
+    "instruction": "What happens to the contents of my Apple device during warranty service?",
+    "input": "[Document Clause]: THE CONTENTS OF YOUR PRODUCT WILL BE DELETED AND THE STORAGE MEDIA REFORMATTED IN THE COURSE OF WARRANTY SERVICE.",
+    "output": "All contents will be deleted and the storage media will be reformatted during warranty service."
+  },
+  {
+    "instruction": "Will I get my Apple product back exactly as I sent it after warranty service?",
+    "input": "[Document Clause]: Your product or a replacement product will be returned to you as your product was configured when originally purchased, subject to applicable updates.",
+    "output": "You will receive your product or a replacement as it was originally configured, with any applicable system updates."
+  },
+  {
+    "instruction": "Can Apple install system software updates during warranty service?",
+    "input": "[Document Clause]: Apple may install system software updates as part of warranty service that will prevent the hardware from reverting to an earlier version of the system software.",
+    "output": "Yes, Apple may install updates that prevent reverting to an older version of the system software."
+  },
+  {
+    "instruction": "What happens to third-party apps after a system software update during warranty service?",
+    "input": "[Document Clause]: Third party applications installed on the hardware may not be compatible or work with the hardware as a result of the system software update.",
+    "output": "Third-party apps may no longer be compatible or work correctly after the system software update."
+  },
+  {
+    "instruction": "Am I responsible for reinstalling my data and apps after warranty service?",
+    "input": "[Document Clause]: You will be responsible for reinstalling all other software programs, data and passwords.",
+    "output": "Yes, you are responsible for reinstalling your software, data, and passwords."
+  },
+  {
+    "instruction": "Does Apple’s limited warranty include recovery and reinstallation of my data?",
+    "input": "[Document Clause]: Recovery and reinstallation of software programs and user data are not covered under this Limited Warranty.",
+    "output": "No, recovery and reinstallation of data are not covered under Apple’s limited warranty."
+  },
+  {
+    "instruction": "Why is it important to back up my Apple device before warranty service?",
+    "input": "[Document Clause]: If your product is capable of storing software programs, data and other information, you should protect its contents against possible operational failures. ... THE CONTENTS OF YOUR PRODUCT WILL BE DELETED AND THE STORAGE MEDIA REFORMATTED IN THE COURSE OF WARRANTY SERVICE.",
+    "output": "Because your data will be deleted and the device reformatted during service, it’s important to back it up in advance."
+  },
+  {
+    "instruction": "How will Apple use customer information?",
+    "input": "[Document Clause]: Apple will maintain and use customer information in accordance with the Apple Customer Privacy Policy available at www.apple.com/legal/warranty/privacy.",
+    "output": "Apple will use customer information according to its Customer Privacy Policy, which can be found at www.apple.com/legal/warranty/privacy."
+  },
+  {
+    "instruction": "Where can I find Apple's Customer Privacy Policy?",
+    "input": "[Document Clause]: Apple will maintain and use customer information in accordance with the Apple Customer Privacy Policy available at www.apple.com/legal/warranty/privacy.",
+    "output": "You can find Apple's Customer Privacy Policy at www.apple.com/legal/warranty/privacy."
+  },
+  {
+    "instruction": "How will Apple handle customer information based on its privacy policy?",
+    "input": "[Document Clause]: Apple will maintain and use customer information in accordance with the Apple Customer Privacy Policy available at www.apple.com/legal/warranty/privacy.",
+    "output": "Apple will handle customer information according to the terms specified in its Customer Privacy Policy, which is accessible at www.apple.com/legal/warranty/privacy."
+  },
+
+
+
+  {
+    "instruction": "What does Samsung's warranty cover?",
+    "input": "[Document Clause]: SAMSUNG warrants to the purchaser of the Product in its original sealed packaging (\"You”) that the Product is free from defects in material and workmanship, subject to the conditions stated herein...",
+    "output": "Samsung’s warranty covers defects in materials and workmanship for products in their original sealed packaging, under certain conditions."
+  },
+  {
+    "instruction": "What happens if I don’t have the proof of purchase?",
+    "input": "[Document Clause]: In the event that a valid proof of purchase is not available, the limited warranty period will be determined by the date of manufacture.",
+    "output": "If you don’t have a valid proof of purchase, Samsung will use the manufacturing date to determine the warranty period."
+  },
+  {
+    "instruction": "What does Samsung do if my SSD is defective?",
+    "input": "[Document Clause]: In the event SAMSUNG determines, in its sole discretion, that the Product suffers from defects in material or workmanship and does not substantially conform to the published specifications under normal use... SAMSUNG will, at its option, either: (1) repair or replace the Product [...] or (2) refund the then current market value",
+    "output": "If your SSD is defective, Samsung will either repair or replace it, or refund its current market value."
+  },
+  {
+    "instruction": "Will Samsung give me a new SSD if mine is replaced?",
+    "input": "[Document Clause]: SAMSUNG may replace Your Product with one that was previously used, repaired and tested to meet SAMSUNG specifications.",
+    "output": "No, Samsung may give you a previously used or refurbished SSD as a replacement."
+  },
+  {
+    "instruction": "Do I get my old SSD back after replacement?",
+    "input": "[Document Clause]: The returned Product for replacement service will not be sent back to You.",
+    "output": "No, once your SSD is replaced, the old one will not be returned to you."
+  },
+  {
+    "instruction": "Will the replacement SSD have a new warranty?",
+    "input": "[Document Clause]: The warranty period for repaired and replaced products will be applied for the longer of the remainder of the original warranty period or ninety (90) days.",
+    "output": "Yes, the replacement will have a warranty that lasts either the rest of the original period or 90 days—whichever is longer."
+  },
+  {
+    "instruction": "What happens if there is nothing wrong with my SSD?",
+    "input": "[Document Clause]: However, in the case of NTF (No Trouble Found) through a diagnosis, Your Product will be sent back to You.",
+    "output": "If no problem is found with your SSD, Samsung will send it back to you."
+  },
+  {
+    "instruction": "Is Samsung’s warranty transferable?",
+    "input": "[Document Clause]: This warranty is provided only to You and is not transferable.",
+    "output": "No, Samsung’s warranty only applies to the original buyer and can’t be transferred to someone else."
+  },
+  {
+    "instruction": "Should I back up my data before sending my SSD to Samsung?",
+    "input": "[Document Clause]: You should always back up the important data.",
+    "output": "Yes, always back up your important data before sending your SSD for service."
+  },
+  {
+    "instruction": "How do I find out my SSD’s TBW threshold?",
+    "input": "[Document Clause]: PLEASE REFER TO THE DATA SHEET FOR YOUR PARTICULAR SSD PRODUCT, WHICH IS AVAILABLE AT www.samsung.com/ssd, www.samsung.com/samsungssd",
+    "output": "You can check your SSD’s TBW limit in the product’s datasheet at Samsung’s SSD website."
+  },
+  {
+    "instruction": "Can Samsung deny warranty due to a breach of agreement?",
+    "input": "[Document Clause]: The warranty stated herein shall NOT apply if: (v) there exist any other circumstances which SAMSUNG determines is evidence of a breach of this Agreement by You.",
+    "output": "Yes, if Samsung believes you breached the agreement, the warranty does not apply."
+  },
+  {
+    "instruction": "Can I use the SSD in life support systems or military equipment?",
+    "input": "[Document Clause]: You acknowledge and agree that the Product is not designed for and shall not be used in, including without limitation, life support systems, critical care, medical or safety equipment, or other applications where failure could result in loss of life or personal or physical harm, or any military or defense application, or any governmental procurement to which special terms or provisions may apply.",
+    "output": "No, the SSD must not be used in life-critical, medical, military, or safety-related systems."
+  },
+  {
+    "instruction": "Is Samsung responsible if I use the SSD in a restricted application?",
+    "input": "[Document Clause]: Accordingly, SAMSUNG disclaims any and all liability in connection with, arising out of, or related to, any such use of the Product and you assume all risks rising from any such or similar application of the Product.",
+    "output": "No, Samsung is not responsible and you assume all risks if you use the product in prohibited applications."
+  },
+  {
+    "instruction": "Does the warranty cover costs for data recovery or SSD assembly?",
+    "input": "[Document Clause]: SAMSUNG's warranty does NOT cover any costs and expenses relating to SSDs' overhaul/assembly and data recovery for repairs or replacements.",
+    "output": "No, the warranty does not cover any costs related to data recovery or SSD assembly."
+  },
+  {
+    "instruction": "Is damage from poor packaging covered under warranty?",
+    "input": "[Document Clause]: SAMSUNG's warranty also does NOT cover Products which, by way of example, have been received improperly packaged, altered, or physically damaged. Products will be inspected upon receipt.",
+    "output": "No, if the product is damaged due to improper packaging, it is not covered by the warranty."
+  },
+  {
+    "instruction": "Does opening the SSD casing affect the warranty?",
+    "input": "[Document Clause]: You can refer to a non-exhaustive list of examples of the warranty exclusions below: opened SSD casing; or tampered or missing tape seal or serial number.",
+    "output": "Yes, opening the SSD casing or tampering with seals or serial numbers voids the warranty."
+  },
+  {
+    "instruction": "Does Samsung provide any warranties beyond the ones written here?",
+    "input": "[Document Clause]: EXCEPT FOR THE EXPRESS WARRANTIES STATED HEREIN, SAMSUNG DISCLAIMS ALL OTHER EXPRESS AND IMPLIED WARRANTIES, INCLUDING BUT NOT LIMITED TO ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NONINFRINGEMENT, COURSE OF DEALING AND USAGE OF TRADE.",
+    "output": "No, Samsung does not provide any other warranties beyond those expressly written."
+  },
+  {
+    "instruction": "Are implied warranties like merchantability and fitness for purpose included?",
+    "input": "[Document Clause]: EXCEPT FOR THE EXPRESS WARRANTIES STATED HEREIN, SAMSUNG DISCLAIMS ALL OTHER EXPRESS AND IMPLIED WARRANTIES, INCLUDING BUT NOT LIMITED TO ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NONINFRINGEMENT, COURSE OF DEALING AND USAGE OF TRADE.",
+    "output": "No, implied warranties like merchantability and fitness for a particular purpose are disclaimed by Samsung."
+  },
+  {
+    "instruction": "How long do any implied warranties last?",
+    "input": "[Document Clause]: ALL EXPRESSED AND IMPLIED WARRANTIES ARE LIMITED IN DURATION TO THE LIMITED WARRANTY PERIOD.",
+    "output": "Any implied warranties only last for the same duration as the limited warranty period."
+  },
+  {
+    "instruction": "What is Samsung’s total liability if there is a breach of the agreement?",
+    "input": "[Document Clause]: THIS AGREEMENT CONTAINS SAMSUNG'S ENTIRE LIABILITY AND YOUR EXCLUSIVE REMEDY FOR BREACH OF THIS AGREEMENT.",
+    "output": "Samsung's entire liability and your only remedy are stated in this agreement."
+  },
+  {
+    "instruction": "Can Samsung be held liable for indirect or incidental damages?",
+    "input": "[Document Clause]: IN NO EVENT SHALL SAMSUNG, ITS SUPPLIERS OR ANY AFFILIATES BE LIABLE FOR ANY INDIRECT, CONSEQUENTIAL, INCIDENTAL OR SPECIAL DAMAGES, ANY FINANCIAL LOSS OR ANY LOST DATA OR FILES, EVEN IF SAMSUNG HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE AND NOTWITHSTANDING THE FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED REMEDY.",
+    "output": "No, Samsung is not liable for indirect, incidental, or special damages, financial losses, or data loss."
+  },
+  {
+    "instruction": "Will Samsung be responsible if my data gets lost while using the product?",
+    "input": "[Document Clause]: IN NO EVENT SHALL SAMSUNG, ITS SUPPLIERS OR ANY AFFILIATES BE LIABLE FOR ANY INDIRECT, CONSEQUENTIAL, INCIDENTAL OR SPECIAL DAMAGES, ANY FINANCIAL LOSS OR ANY LOST DATA OR FILES, EVEN IF SAMSUNG HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE AND NOTWITHSTANDING THE FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED REMEDY.",
+    "output": "No, Samsung is not responsible for lost data or files even if they were warned of the risk."
+  },
+  {
+    "instruction": "Can Samsung’s liability be more than what I paid for the product?",
+    "input": "[Document Clause]: IN NO EVENT WILL SAMSUNG'S LIABILITY EXCEED THE AMOUNT PAID BY YOU FOR THE PRODUCT.",
+    "output": "No, Samsung’s liability is limited to the amount you paid for the product."
+  },
+  {
+    "instruction": "Do these liability limitations apply fully under all legal systems?",
+    "input": "[Document Clause]: THESE LIMITATIONS AND EXCLUSIONS APPLY TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW.",
+    "output": "Yes, these limitations apply as fully as the law allows."
+  },
+  {
+    "instruction": "If a limited remedy fails its essential purpose, can I still claim special damages?",
+    "input": "[Document Clause]: IN NO EVENT SHALL SAMSUNG, ITS SUPPLIERS OR ANY AFFILIATES BE LIABLE FOR ANY INDIRECT, CONSEQUENTIAL, INCIDENTAL OR SPECIAL DAMAGES, ANY FINANCIAL LOSS OR ANY LOST DATA OR FILES, EVEN IF SAMSUNG HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE AND NOTWITHSTANDING THE FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED REMEDY.",
+    "output": "No, even if a remedy fails, Samsung is still not liable for special or consequential damages."
+  },
+  {
+    "instruction": "Is this agreement the only document that defines Samsung's responsibility?",
+    "input": "[Document Clause]: THIS AGREEMENT CONTAINS SAMSUNG'S ENTIRE LIABILITY AND YOUR EXCLUSIVE REMEDY FOR BREACH OF THIS AGREEMENT.",
+    "output": "Yes, this agreement alone defines Samsung’s total responsibility and your exclusive remedy."
+  },
+  {
+    "instruction": "If I paid $200 for the SSD, can Samsung be liable for more than that?",
+    "input": "[Document Clause]: IN NO EVENT WILL SAMSUNG'S LIABILITY EXCEED THE AMOUNT PAID BY YOU FOR THE PRODUCT.",
+    "output": "No, Samsung's liability will not exceed $200 if that is what you paid for the product."
+  },
+  {
+    "instruction": "Why does Samsung collect personal information?",
+    "input": "[Document Clause]: The Company uses the collected personal information for the following purposes:\n To help you or your device register for our Services.\n To provide a Service or feature you request.\n To provide customized content and personalized services based on your past activities on our Services.",
+    "output": "Samsung collects personal information to help with service registration, provide requested features, and offer customized content based on your usage."
+  },
+  {
+    "instruction": "Will Samsung send personalized promotions without my consent?",
+    "input": "[Document Clause]: We will only send you personalized advertising, promotions, and offers when you have provided your consent to receive marketing communications from Samsung.",
+    "output": "No, Samsung will only send personalized promotions if you give your consent."
+  },
+  {
+    "instruction": "How does Samsung improve its products and services using personal data?",
+    "input": "[Document Clause]: To operate, evaluate, and improve our business, including developing and improving new and existing products and services, managing and improving our communications, analyzing our Services and customer base (including conducting market research, asking for your opinions on our products and services, and carrying out customer surveys, with your separate consent if required) and aggregating and anonymizing data.",
+    "output": "Samsung uses personal data to analyze and enhance its business, improve products and services, and conduct research and surveys with consent."
+  },
+  {
+    "instruction": "What does Samsung do when your device is out of warranty?",
+    "input": "[Document Clause]: To ensure product safety and to prevent fraud when your products are out of warranty, we will collect your IMEI and serial number.",
+    "output": "Samsung collects your device’s IMEI and serial number to ensure safety and prevent fraud when it’s out of warranty."
+  },
+  {
+    "instruction": "What does Samsung do with defective devices returned to them?",
+    "input": "[Document Clause]: To analyze a defective device that is returned to Samsung. Samsung takes measures to ensure that all defective devices are wiped of personal data before such devices are analyzed.",
+    "output": "Samsung deletes personal data from defective devices before analyzing them."
+  },
+  {
+    "instruction": "Will Samsung share data for non-targeted ads?",
+    "input": "[Document Clause]: We share this data with trusted business partners and trusted service providers to provide you with non-targeted ads, subject to appropriate contractual safeguards being in place.",
+    "output": "Yes, Samsung shares data for non-targeted ads with trusted partners, under contractual safeguards."
+  },
+  {
+    "instruction": "What kind of ads can I receive even if I opt out of targeted ads?",
+    "input": "[Document Clause]: Please note that your privacy choice with respect to interest-based or personalized ads (“targeted ads”) will not affect whether or not you receive or are served with generic, basic, or contextual types of ads (“non-targeted ads”) that are not specifically based on the information we describe to you to provide targeted ads for a particular Service.",
+    "output": "You can still receive non-targeted ads like basic or contextual ones even if you opt out of targeted ads."
+  },
+  {
+    "instruction": "What information is used for non-targeted ads on mobile devices?",
+    "input": "[Document Clause]: For mobile devices, the information we use to show you non-targeted ads includes the applicable app information (e.g. app package, version, name, and domain), device information (e.g. device type, manufacturer, operating system, version, display information, telecommunications provider, country, and language), and device identifiers (e.g. IP and advertising ID).",
+    "output": "App info, device details, and identifiers like IP and ad ID are used for non-targeted ads on mobile."
+  },
+  {
+    "instruction": "Can I choose how Samsung uses my personal information?",
+    "input": "[Document Clause]: You can make choices about your information. Check out the User's Rights and How to Exercise Them section to learn more.",
+    "output": "Yes, you can make choices about how your information is used by referring to the relevant section."
+  },
+  {
+    "instruction": "Why does Samsung collect data for direct marketing?",
+    "input": "[Document Clause]: To provide promotions and offers by way of direct marketing communications (such as via email, push, or text messages), only where you have given us your separate consent.",
+    "output": "Samsung uses your data for direct marketing like emails or texts only if you give explicit consent."
+  },
+  {
+    "instruction": "Does Samsung use data from multiple sources to improve services?",
+    "input": "[Document Clause]: We use and combine the information we collect about you from our Services, devices, or other sources to provide you with a better experience.",
+    "output": "Yes, Samsung combines data from multiple sources to improve your experience."
+  },
+  {
+    "instruction": "How does Samsung use personal information to protect its rights?",
+    "input": "[Document Clause]: To protect the legal rights and interests, property, or safety of Samsung Electronics, or any of our affiliates, business partners, or customers.",
+    "output": "Samsung uses personal data to safeguard its rights, property, and the safety of its stakeholders."
+  },
+  {
+    "instruction": "What are Samsung’s affiliates?",
+    "input": "[Document Clause]: Affiliates:\nOther Samsung SDS Group companies which we control or own.",
+    "output": "Samsung’s affiliates are other companies in the Samsung SDS Group that it controls or owns."
+  },
+  {
+    "instruction": "Do Samsung’s business partners control the personal information they receive?",
+    "input": "[Document Clause]: Business Partners:\nPartners who we work together with. For example, we may work with a bank so that you can use one of our Services to make faster and more efficient payments. These business partners control and manage your personal information.",
+    "output": "Yes, Samsung’s business partners control and manage the personal information they receive."
+  },
+  {
+    "instruction": "What roles do service providers play in handling personal information?",
+    "input": "[Document Clause]: Service Providers:\nCarefully selected companies that provide services for or on behalf of us, such as companies that help us with repairs, customer contact centers, customer care activities, advertising (including personalized advertising on our websites, third-party websites, online platforms, and social media platforms), conducting customer satisfaction surveys, billing, or that send emails on our behalf. These providers are also committed to protecting your information.",
+    "output": "Service providers handle tasks like repairs, customer service, advertising, surveys, billing, and emails, and are committed to protecting your information."
+  },
+  {
+    "instruction": "When might Samsung be legally required to share my data?",
+    "input": "[Document Clause]: Other Parties When Required by Law or as Necessary to Protect Our Services:\nFor example, it may be necessary by law, legal process, or court order from governmental authorities to disclose your information. They may also seek your information from us for the purposes of law enforcement, national security, anti-terrorism, or other issues that are related to public security.",
+    "output": "Samsung may share your data if required by law, court orders, or for national security and public safety reasons."
+  },
+  {
+    "instruction": "Does Samsung transfer my data during events like acquisitions?",
+    "input": "[Document Clause]: Other Parties in Connection with Corporate Transactions:\nWe may disclose your information to a third party as part of a merger or transfer, acquisition or sale, or in the event of a bankruptcy.",
+    "output": "Yes, Samsung may disclose your data during mergers, transfers, acquisitions, sales, or bankruptcy."
+  },
+  {
+    "instruction": "Can Samsung share my info just because I agreed to it?",
+    "input": "[Document Clause]: Other Parties with Your Consent or at Your Direction:\nIn addition to the disclosures described in this Privacy Policy, we share information about you with third parties when you separately consent to or request such sharing.",
+    "output": "Yes, Samsung may share data with third parties if you give separate consent or request it."
+  },
+  {
+      "instruction": "Is eBay responsible for the accuracy of vehicle info listed on its site?",
+      "input": "[Document Clause]: You agree that any reliance on vehicle information on eBay sites is at your own risk. Any discrepancies or mistakes made regarding vehicle availability, quality, safety, condition, pricing, financing, insurance and the like are not the fault or responsibility of eBay.",
+      "output": "No, eBay is not responsible for the accuracy of vehicle information listed on its site."
+  },
+  {
+      "instruction": "Does eBay inspect the vehicles listed on its site?",
+      "input": "[Document Clause]:  negotiate or attempt to negotiate sales or exchanges of an interest in any vehicle listed on eBay sites. eBay has never: (1) held title for any vehicle listed on eBay sites; (2) inspected any vehicle listed on eBay sites; (3) set or negotiated prices for any vehicle listed on eBay sites; (4) had any vehicle listed on eBay sites in its possession; (5) shipped, distributed, or delivered any vehicle listed on eBay sites; or (6) sold a vehicle listed on eBay sites by consignment.",
+      "output": "No, eBay does not inspect the vehicles listed on its site."
+  },
+  {
+      "instruction": "Does eBay provide warranties on vehicle condition and safety?",
+      "input": "[Document Clause]: IN ADDITION TO, AND WITHOUT LIMITING THE GENERALITY OF THE DISCLAIMERS OF WARRANTIES DETAILED IN SECTION 16, YOU AGREE THAT: (A) EBAY DOES NOT WARRANT AGAINST DEFECTS IN ANY VEHICLE, AND DOES NOT MAKE ANY WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING REPRESENTATIONS, PROMISES, OR STATEMENTS AS TO THE VEHICLE’S VALUE, CONDITION, SAFETY, CAPABILITY, FITNESS, OR MERCHANTABILITYY, (B) NO INFORMATION OBTAINED",
+      "output": "No, eBay does not provide any warranties on vehicle condition or safety."
+  },
+  {
+      "instruction": "Is ebay considered a vehicle dealer?",
+      "input": "[Document Clause]: eBay is not a vehicle broker, vehicle dealer, or an agent acting on behalf of vehicle brokers, dealers, buyers or sellers.",
+      "output": "No, eBay is not considered a vehicle dealer."
+  },
+  {
+      "instruction": "Is eBay qualified to give guidance on car registration and financing?",
+      "input": "[Document Clause]: Furthermore, neither the financing of or insurance relevant to vehicles is controlled or guaranteed by eBay. The purchase of a vehicle encompasses multiple disciplines and eBay is not an expert on matters such as vehicle market valuation, laws relating to vehicles, taxes relating to vehicles, vehicle financing, vehicle registration, vehicle insurance, vehicle condition safety, and inspections, or vehicle mechanical fitness and engineering",
+      "output": "No, eBay is not an expert on vehicle registration or financing and advises users to seek professional help."
+  },
+  {
+      "instruction": "Who runs the Secure Checkout service for cars on eBay?",
+      "input": "[Document Clause]: As it relates to vehicle listings, eBay Secure Checkout is powered by and made possible by the services of Caramel Dealer Services, LLC.",
+      "output": "The eBay Secure Checkout service for vehicle purchases is provided by Caramel Dealer Services, LLC."
+  },
+  {
+      "instruction": "Is vehicle insurance and financing guaranteed by eBay?",
+      "input": "[Document Clause]: Furthermore, neither the financing of or insurance relevant to vehicles is controlled or guaranteed by eBay. The purchase of a vehicle encompasses multiple disciplines and eBay is not an expert on matters such as vehicle market",
+      "output": "No, eBay does not guarantee vehicle financing or insurance."
+  },
+  {
+      "instruction": "Does eBay charge buyers for any services?",
+      "input": "[Document Clause]: In some cases, where buyers receive supplemental Services such as authentication or storage Services for items in certain categories, we may also charge those buyers for such supplemental Services.",
+      "output": "Yes, buyers may be charged for supplemental services like authentication or storage."
+  },
+  {
+      "instruction": "Are sellers responsible for fees even if the sale is completed outside of eBay?",
+      "input": "[Document Clause]: If you are a seller, you are liable for fees arising out of all sales made using some or all of our Services, even if sales terms are finalized or payment is made outside of eBay.",
+      "output": "Yes, sellers are responsible for fees even if the sale is finalized or payment is made outside of eBay."
+  },
+  {
+      "instruction": "what happens if a seller’s payment method fails?",
+      "input": "[Document Clause]: If your payment method fails or your account is past due, we may place restrictions on your account, or the eBay Payments Entities (as defined below) may collect amounts owed in the manner described in the Payments Terms of Use, and late fees will apply.",
+      "output": "If a seller’s payment method fails, eBay may restrict the account and charge late fees."
+  },
+  {
+      "instruction": "Are eBay sellers allowed to challenge what was sent to credit agencies?",
+      "input": "[Document Clause]: If you wish to dispute the information eBay reported to a credit bureau (i.e., Experian, Equifax, or TransUnion) please contact us at eBay Inc., c/o Global Collections, 7700 West Parmer Lane, Building D, Austin, TX 78729.",
+      "output": "Yes, sellers can dispute credit bureau information reported by eBay by contacting their Global Collections address."
+  },
+  {
+      "instruction": "Can I file a dispute over what a debt collector reported to credit agencies?",
+      "input": "[Document Clause]: If you wish to dispute the information a collection agency reported to a credit bureau regarding your eBay account, you must contact the collection agency directly.",
+      "output": "Yes, but disputes must be directed to the collection agency that reported the information."
+  },
+  {
+      "instruction": "Who is responsible for the accuracy and content of an eBay listing?",
+      "input": "[Document Clause]: You assume full responsibility for the item offered and the accuracy and content of the listing, including listing content created using tools offered by eBay or third parties such as translation, image editing, and generative artificial intelligence tools.",
+      "output": "The seller is fully responsible for the accuracy and content of the listing, even if tools like AI or translation are used."
+  },
+  {
+      "instruction": "Can eBay automatically renew fixed-price listings?",
+      "input": "[Document Clause]: Your fixed-price listings may renew automatically every calendar month, based on the listing terms at the time, until all quantities sell or the listing is ended by you or eBay, in its sole discretion.",
+      "output": "Yes, fixed-price listings may renew automatically each month unless ended by the seller or eBay."
+  },
+  {
+      "instruction": "Will a newly listed item appear in search results immediately?",
+      "input": "[Document Clause]: Your listing may not be immediately searchable by keyword or category for several hours (or up to 24 hours in some circumstances). eBay can't guarantee exact listing duration.",
+      "output": "No, new listings may take several hours or up to 24 hours to appear in search results."
+  },
+  {
+      "instruction": "Does eBay control how listings appear in search results?",
+      "input": "[Document Clause]: The appearance or placement of listings in search and browse results will depend on a variety of factors, including buyer's location, search query, item's details, seller's history, and number of listings matching the query.",
+      "output": "Yes, listing visibility depends on multiple factors like buyer location, item details, and seller performance."
+  },
+  {
+      "instruction": "Is the seller responsible for removing recalled products from eBay?",
+      "input": "[Document Clause]: You will not sell and will promptly remove all listings for any product recalled by a manufacturer or governmental agency if the sale of the product is prohibited by law or regulation or if the product poses a health or safety hazard as specified by any governmental agency.",
+      "output": "Yes, sellers must not sell and must promptly remove any recalled products."
+  },
+  {
+      "instruction": "Is eBay liable for the safety or performance of listed products?",
+      "input": "[Document Clause]: eBay has no responsibility or liability for the safety or performance of any product that you list or sell using our Services, including any product that is subject to a recall.",
+      "output": "No, eBay is not liable for the safety or performance of any listed products."
+  },
+  {
+      "instruction": "Can eBay use a seller's listing information in advertising?",
+      "input": "[Document Clause]: eBay may publish and promote your listings, including related content such as username, product reviews and feedback, in any format and through any channel, including across any eBay Services, our partners, or third-party property or advertising medium.",
+      "output": "Yes, eBay may use listing content and related information in its marketing across various platforms."
+  },
+  {
+  "instruction": "Do selling fees give sellers exclusive visibility or exposure?",
+  "input": "[Document Clause]: Selling fees do not purchase exclusive rights to item exposure on our Services. We may display third-party advertisements or other content in any part of our Services, including listings.",
+  "output": "No, paying selling fees does not guarantee exclusive exposure, and eBay may show third-party ads alongside listings."
+  },
+  {
+      "instruction": "When exactly do I enter into a contract with the seller on eBay?",
+      "input": "[Document Clause]: You enter into a legally binding contract to purchase an item when you buy the item, commit to buy the item, your offer for the item is accepted, you have the winning bid for the item, or your bid for the item is otherwise accepted, regardless of when payment is due or received unless the transaction terms state that you are required to pay for the item before a binding contract is formed;",
+      "output": "You enter into a legally binding contract when you buy, commit to buy, or your bid or offer is accepted—unless the terms say payment must come first before the contract is binding."
+  },
+  {
+      "instruction": "Does eBay transfer legal ownership of the item to me when I buy something?",
+      "input": "[Document Clause]: We do not transfer legal ownership of items from the seller to you;",
+      "output": "No, eBay doesn’t transfer legal ownership—ownership passes directly between you and the seller."
+  },
+  {
+      "instruction": "If I bid on a car or house on eBay, does that mean I’m legally bound to buy it?",
+      "input": "[Document Clause]: For motor vehicles and real estate, a bid or offer initiates a non-binding transaction representing a buyer's serious expression of interest in buying the seller's item and does not create a formal contract between the buyer and the seller;",
+      "output": "No, for cars and real estate, your bid or offer just shows you're seriously interested. It's not a legally binding contract."
+  },
+  {
+      "instruction": "I don’t want to sell or ship items internationally. can I control where my items get sold?",
+      "input": "[Document Clause]: If, as a seller, you do not want your item to be sold to buyers internationally, you can exclude countries or regions you don't want to ship to by adjusting your shipping settings as provided in the International selling policy.",
+      "output": "Yes, you can exclude specific countries or regions by adjusting your shipping settings in line with eBay's International selling policy."
+  },
+  {
+      "instruction": "If I buy something on a different eBay site than the one I signed up on, which rules apply?",
+      "input": "[Document Clause]: If you purchase an item on an eBay site that is different from your registration site, you are subject to the User Agreement and applicable policies of that other eBay site with respect to that particular purchase, as detailed in the International selling policy. Sellers and buyers are responsible for complying with all laws and regulations applicable to the international sale, ",
+      "output": "You’ll be subject to the User Agreement and policies of the eBay site where you made the purchase, not necessarily the one where you registered."
+  },
+  {
+      "instruction": "If I sell something on a different eBay site, which rules and protections apply?",
+      "input": "[Document Clause]: If you sell an item on an eBay site that is different from your registration or listing site, you are subject to the User Agreement and applicable policies, including any buyer protection programs, of that other eBay site with respect to that particular sale, as detailed in the International selling policy.",
+      "output": "You'll be subject to the rules and buyer protection policies of the site where the sale happens—even if it’s different from the one you registered or listed on."
+  },
+  {
+      "instruction": "Will my listings show up on eBay sites in other countries automatically?",
+      "input": "[Document Clause]: For sellers, you agree that we may display your listing for sale on an eBay site other than the site where you listed your item for sale, based on your shipping settings.",
+      "output": "Yes, your listings may be shown on other eBay country sites depending on your shipping settings—but it's not guaranteed."
+  },
+  {
+      "instruction": "Do my listings or messages get automatically translated for international buyers?",
+      "input": "[Document Clause]: You authorize us to use automated tools to translate your eBay content, including member-to-member communications, in whole or in part, into local languages where such translation solutions are available.",
+      "output": "Yes, eBay may automatically translate your content, including messages, to help international buyers—but translation accuracy isn’t guaranteed."
+  },
+  {
+      "instruction": "What is the eBay international shipping program and do I have to join it?",
+      "input": "[Document Clause]: translation are not guaranteed. One of the ways we make eBay.com listings available to international buyers is through the eBay International Shipping Program (EIS). EIS enables buyers to obtain parcel processing, international shipping, and customs clearance services. It is facilitated by eBay through third-party service providers that eBay has contracted with to operationalize the program. By listing your item on eBay.com you agree to the EIS Terms and Conditions. If you choose not to participate in EIS, you can opt out of the program by updating your shipping preferences.",
+      "output": "EIS is a program that handles international shipping and customs for you using third-party services. You’re enrolled by default when listing on eBay.com, but you can opt out by changing your shipping preferences."
+  },
+  {
+      "instruction": "Can I still protect my intellectual property if I share something on eBay?",
+      "input": "[Document Clause]: To the fullest extent permitted under applicable law, you waive your right to enforce your Intellectual Property Rights, including any moral rights, in that content against eBay, our assignees, our sublicensees, and their assignees [...].",
+      "output": "Not really. You agree not to enforce your intellectual property or moral rights against eBay or others using your content as part of eBay’s services."
+  },
+  {
+      "instruction": "Am I supposed to own the stuff I upload on eBay?",
+      "input": "[Document Clause]: You represent and warrant that, for all such content you provide, you own or otherwise control all necessary rights to do so and to meet your obligations under this User Agreement..",
+      "output": "Yes, you're confirming that you either own or have permission to use any content you post and that you're legally allowed to share it on eBay."
+  },
+  {
+      "instruction": "Can I take eBay's pictures and descriptions and use them in my listing?",
+      "input": "[Document Clause]: We offer product data including images, descriptions and specifications that are provided by third parties including eBay users. You may use that content solely in your eBay listings.",
+      "output": "Yes, you can use that product data, but only in your eBay listings—and eBay can take that permission away at any time."
+  },
+  {
+      "instruction": "Am I allowed to remove the product data eBay gives me?",
+      "input": "[Document Clause]: You agree not to remove any copyright, proprietary, or identification markings in the product data and not to create any derivative works based on that data other than by including the data in your listings.",
+      "output": "No, you're not allowed to change, republish, or remove copyright info from the product data. You can only use it as-is in your listings."
+  },
+  {
+      "instruction": "Is the info eBay gives for products always right?",
+      "input": "[Document Clause]: We try to offer reliable product data, but we cannot promise that the content provided through our Services will always be available, accurate, complete, and up-to-date.",
+      "output": "No, eBay doesn’t guarantee that the product data is always correct, current, or even available."
+  },
+  
+  {
+      "instruction": "What should I do if someone is infringing on my copying my trademark on eBay?",
+      "input": "[Document Clause]: eBay's Verified Rights Owner (VeRO) program works to ensure that items and content using our Services do not infringe upon the copyright, trademark, or certain other intellectual property rights of third parties.",
+      "output": "If you think someone is using your copyrighted or trademarked material without permission, report it to eBay’s VeRO team—they’ll investigate."
+  },
+  {
+      "instruction": "Can eBay call or text me?",
+      "input": "[Document Clause]: Authorization to Contact You; Recording Calls; Analyzing Message Content. eBay may contact you using autodialed or prerecorded calls and text messages, at any telephone number that you have provided us",
+      "output": "Yes, eBay can call or text you—automatically or with recordings—for things like account issues, surveys, disputes, or promotions if you agree to it."
+  },
+  {
+      "instruction": "Can eBay give my number to others?",
+      "input": "[Document Clause]: eBay may share your telephone number with its authorized service providers as stated in our User Privacy Notice. These service providers may contact you using autodialed or prerecorded calls and text messages, only as authorized by eBay to carry out the purposes identified above. eBay may, without further notice",
+      "output": "Yes, eBay can give your phone number to trusted service providers, but only so they can contact you on eBay’s behalf."
+  },
+  {
+      "instruction": "Can eBay record my phone calls?",
+      "input": "[Document Clause]: eBay may, without further notice or warning and in its discretion, monitor or record telephone conversations you or anyone acting on your behalf has with eBay or its agents for quality control and training purposes, or for its own protection.",
+      "output": "Yes, eBay can record or monitor your calls with them or their agents—for training, quality, or legal reasons—without telling you beforehand."
+  },
+  {
+      "instruction": "Does eBay read or scan my messages?",
+      "input": "[Document Clause]: eBay's automated systems scan and analyze the contents of every message sent through its messaging platforms (including but not limited to chat and email channels), including messages between users.",
+      "output": "Yes, eBay uses automated tools (and sometimes manual checks) to scan messages for fraud or policy violations. This could delay or block your messages."
+  },
+  {
+      "instruction": "What happens if a buyer returns an item?",
+      "input": "[Document Clause]:  Sellers may remove or customize their return preferences in their account settings within My eBay. Where settings have been set to automatically accept requests for returns or replacements, an eBay-generated return shipping label will be provided to your buyer. You agree to comply with our returns policy. When an item is returned or if a transaction is canceled after payment has been completed, eBay may issue a refund to the buyer on the seller's behalf and charge the seller for the amount of the refund.",
+      "output": "If the buyer returns something, eBay can refund them on the seller's behalf and then charge the seller for that refund."
+  },
+  {
+      "instruction": "What happens if a buyer cancels an order?",
+      "input": "[Document Clause]: When an item is returned or if a transaction is canceled after payment has been completed, eBay may issue a refund to the buyer on the seller's behalf and charge the seller for the amount of the refund.",
+      "output": "If the buyer cancels after paying, eBay can refund them on the seller's behalf and then charge the seller for that refund."
+  },
+  {
+      "instruction": "How to cancel an order as a seller?",
+      "input": "[Document Clause]: eBay or eBay Payment Entities may invoice sellers for these charges and collect such charges as described in the Payments Terms of Use. All seller cancellations of orders must be in accordance with our Order cancellation policy.",
+      "output": "You have to follow eBay’s official order cancellation policy if you want to cancel an order as a seller."
+  },
+  {
+      "instruction": "Can I cancel an order as a buyer?",
+      "input": "[Document Clause]: Returns and cancellations for buyers. Buyers generally do not have the right to cancel an order. Buyers can request to cancel an order on eBay within the time period and as provided in our Order cancellation policy, and the seller will have 3 days to accept or decline the request. If the order cannot be canceled, buyers may still be permitted to return the item if the item is eligible for return.",
+      "output": "Not always—you can ask the seller to cancel within a certain time, but they get 3 days to decide. If they decline, you might still be able to return the item if it's eligible."
+  },
+  {
+      "instruction": "Who pays for return shipping if I return something as a buyer?",
+      "input": "[Document Clause]: the order cannot be canceled, buyers may still be permitted to return the item if the item is eligible for return. In certain instances, a buyer may be responsible for the cost of return shipping for an item returned to a seller. If the buyer is responsible for the return shipping costs, the buyer may elect to use an eBay-generated shipping label or purchase a shipping label directly from a carrier. By choosing to use an eBay-generated shipping label, you as a buyer agree that eBay may deduct the cost of the shipping label from the refund owed to you.",
+      "output": "Sometimes you will have to pay return shipping. You can use a label from eBay or buy one yourself. If you use eBay’s, they’ll deduct the cost from your refund."
+  },
+  {
+      "instruction": "What does the eBay Money Back Guarantee cover?",
+      "input": "[Document Clause]: Most eBay sales go smoothly, but if there's a problem with a purchase covered by eBay Money Back Guarantee, buyers can get their money back if an item didn't arrive, is faulty or damaged, or doesn't match the listing. You agree to comply with the policy and permit us to make a final decision on any eBay Money Back Guarantee case.",
+      "output": "It protects you if you don’t get your item, or if it’s broken or not as described. eBay decides the final outcome of these cases."
+  },
+  {
+      "instruction": "How does eBay decide what items to recommend to me?",
+      "input": "[Document Clause]: Recommendations. eBay may offer personalized recommendations to you to provide a relevant and engaging experience, helping you sell or buy items of interest to you. These recommendations may consider data related to your eBay activity, the item, and seasonality, among other factors.",
+      "output": "eBay uses info like what you search for or buy, and even seasonal trends, to show you items you might be interested in."
+  },
+  {
+      "instruction": "How do payments work when I buy something on eBay?",
+      "input": "[Document Clause]: You may pay for items and services using the payment methods that the eBay Payment Entities make available, and the eBay Payment Entities will manage settlement of the payment to sellers. The eBay Payment Entities will collect the transaction amount on behalf of the seller by charging your selected payment method.",
+      "output": "You can pay using whatever payment options eBay offers. eBay takes your payment and passes it to the seller, so once you pay eBay, you’ve met your obligation."
+  },
+  {
+      "instruction": "Can a transaction be declined or held?",
+      "input": "[Document Clause]: In certain instances, your transaction may be declined, frozen, or held for any reason including for suspected fraud, Anti-Money Laundering compliance, compliance with economic or trade sanctions, in connection with eBay's internal risk controls or due to potential violations of any policy of eBay or the eBay Payment Entity, or a policy of one of the Payment Entity's third-party payment services providers",
+      "output": "Yes, transactions may be declined, frozen, or held due to suspected fraud, anti-money laundering issues, sanctions compliance, internal risk controls, or potential policy violations."
+  },
+  {
+      "instruction": "Does eBay store payment information?",
+      "input": "[Document Clause]: eBay, the eBay Payment Entity or its affiliates may save payment information, such as credit card or debit card numbers, and card expiration dates, entered by you on our Services when you make a purchase, redeem a coupon, or make any other transaction on our Services where card information is entered.",
+      "output": "Yes, eBay may store payment information like credit or debit card numbers and expiration dates entered during a transaction. This information may be used as the buyer’s default payment method for future purchases."
+  },
+  {
+      "instruction": "can ebay control fees from third party providers like banks and card networks?",
+      "input": "[Document Clause]: Failure to abide by third-party terms and conditions may result in fees assessed to you (for example, currency conversion fees from your credit card issuer if the transaction currency is different from your credit card currency) or other actions taken by such third parties, and you agree that the eBay Payment Entity has no control over, or responsibility or liability for, such fees or actions.",
+      "output": "No, eBay does not control third-party fees or actions, such as currency conversion fees or penalties from banks or card networks."
+  },
+      {
+  "instruction": "How can I access or delete my personal information held by shein?",
+  "input": "[Document Clause]: To exercise your rights, you may contact us at legal@shein.com or media@sheingroup.com. If you cease using or accessing our Services, you can request us to delete all personal information we hold about you by contacting us at legal@shein.com or media@sheingroup.com (see section 11), subject to certain legal requirements.",
+  "output": "To exercise your rights, you may contact us at legal@shein.com or media@sheingroup.com."
+},
+{
+  "instruction": "am I allowed to take back my consent for how my data is handled?",
+  "input": "[Document Clause]: 5.2 Withdrawal of consent. You may have the right to withdraw your consent to the processing of your personal data, as well as to access, correct, or delete the personal information that we collect, subject to certain exceptions.",
+  "output": "You may have the right to withdraw your consent to the processing of your personal data, as well as to access, correct, or delete the personal information that we collect, subject to certain exceptions."
+},
+{
+  "instruction": "What should I do if I want to opt out of SHEIN’s promotional emails?",
+  "input": "[Document Clause]: 5.3 Unsubscribe from Our Marketing Communications. If you no longer wish for us to use your email account to send you marketing emails or non-transactional promotional materials, please click on the unsubscribe link at the bottom of any of our email messages to you or contact us at legal@shein.com or media@sheingroup.com.",
+  "output": "Please click on the unsubscribe link at the bottom of any of our email messages to you or contact us at legal@shein.com or media@sheingroup.com."
+},
+{
+  "instruction": "Can I lodge a complaint if I believe my privacy rights were violated by SHEIN?",
+  "input": "[Document Clause]: 5.4 Lodging Complaints. If you believe we have infringed or violated your privacy rights, please contact us at legal@shein.com so that we may attempt to resolve any issues to your satisfaction. Notwithstanding the approaches of exercising your rights stated above, this is without prejudice to your right to lodge a claim or complaint with your data protection authority.",
+  "output": "This is without prejudice to your right to lodge a claim or complaint with your data protection authority."
+},
+{
+  "instruction": "what happens if I request access to my personal data from SHEIN?",
+  "input": "[Document Clause]: If these rights apply to you, and you submit a request, we may request data (including personal data and identification) from you to enable us to confirm your identity and determine your right to access such data, as well as to search for and provide you with the personal data we maintain upon your request.",
+  "output": "We may request data (including personal data and identification) from you to enable us to confirm your identity and determine your right to access such data, as well as to search for and provide you with the personal data we maintain upon your request."
+},
+{
+  "instruction": "Can Shein refuse to provide or delete my personal information?",
+  "input": "[Document Clause]: There are instances where applicable laws or regulatory requirements allow or require us to refuse to provide or delete some or all the personal information that we maintain.",
+  "output": "There are instances where applicable laws or regulatory requirements allow or require us to refuse to provide or delete some or all the personal information that we maintain."
+},
+{
+  "instruction": "What rights do I have under applicable privacy laws?",
+  "input": "[Document Clause]: You may have the right under applicable laws to correct or update your personal data, object to processing of your personal data, ask us to restrict processing your personal data or to request portability of your personal data.",
+  "output": "You may have the right under applicable laws to correct or update your personal data, object to processing of your personal data, ask us to restrict processing your personal data or to request portability of your personal data."
+},
+{
+  "instruction": "How can I submit a complaint about privacy to shein?",
+  "input": "[Document Clause]: If you believe we have infringed or violated your privacy rights, please contact us at legal@shein.com so that we may attempt to resolve any issues to your satisfaction.",
+  "output": "Please contact us at legal@shein.com so that we may attempt to resolve any issues to your satisfaction."
+},
+{
+  "instruction": "What should I do to unsubscribe from SHEIN's marketing messages?",
+  "input": "[Document Clause]: If you no longer wish for us to use your email account to send you marketing emails or non-transactional promotional materials, please click on the unsubscribe link at the bottom of any of our email messages to you or contact us at legal@shein.com or media@sheingroup.com.",
+  "output": "Please click on the unsubscribe link at the bottom of any of our email messages to you or contact us at legal@shein.com or media@sheingroup.com."
+},
+{
+  "instruction": "How do I ask Shein to erase all my personal information?",
+  "input": "[Document Clause]: If you cease using or accessing our Services, you can request us to delete all personal information we hold about you by contacting us at legal@shein.com or media@sheingroup.com (see section 11), subject to certain legal requirements.",
+  "output": "You can request us to delete all personal information we hold about you by contacting us at legal@shein.com or media@sheingroup.com (see section 11), subject to certain legal requirements."
+},
+{
+  "instruction": "Can I update or correct my personal data with SHEIN?",
+  "input": "[Document Clause]: You may have the right under applicable laws to correct or update your personal data, object to processing of your personal data, ask us to restrict processing your personal data or to request portability of your personal data.",
+  "output": "You may have the right under applicable laws to correct or update your personal data."
+},
+{
+  "instruction": "Does SHEIN need to verify my identity before giving me access to my data?",
+  "input": "[Document Clause]: If these rights apply to you, and you submit a request, we may request data (including personal data and identification) from you to enable us to confirm your identity and determine your right to access such data, as well as to search for and provide you with the personal data we maintain upon your request.",
+  "output": "We may request data (including personal data and identification) from you to enable us to confirm your identity and determine your right to access such data."
+},
+{
+  "instruction": "Does SHEIN recognize my legal rights under applicable laws?",
+  "input": "[Document Clause]: We attach great importance to your legal rights, and we do our best to protect those rights were applicable and available.",
+  "output": "We attach great importance to your legal rights, and we do our best to protect those rights were applicable and available."
+},
+{
+  "instruction": "What if I stop using SHEINs services? Can I request data deletion?",
+  "input": "[Document Clause]: If you cease using or accessing our Services, you can request us to delete all personal information we hold about you by contacting us at legal@shein.com or media@sheingroup.com (see section 11), subject to certain legal requirements.",
+  "output": "You can request us to delete all personal information we hold about you by contacting us at legal@shein.com or media@sheingroup.com (see section 11), subject to certain legal requirements."
+},
+{
+  "instruction": "Is my right to file a complaint with a data protection authority preserved?",
+  "input": "[Document Clause]: Notwithstanding the approaches of exercising your rights stated above, this is without prejudice to your right to lodge a claim or complaint with your data protection authority.",
+  "output": "This is without prejudice to your right to lodge a claim or complaint with your data protection authority."
+},
+{
+  "instruction": "Can I object to the processing of my personal data by SHEIN?",
+  "input": "[Document Clause]: You may have the right under applicable laws to correct or update your personal data, object to processing of your personal data, ask us to restrict processing your personal data or to request portability of your personal data.",
+  "output": "You may have the right under applicable laws to object to processing of your personal data."
+},
+{
+  "instruction": "What happens if I withdraw consent for data processing?",
+  "input": "[Document Clause]: 5.2 Withdrawal of consent. You may have the right to withdraw your consent to the processing of your personal data, as well as to access, correct, or delete the personal information that we collect, subject to certain exceptions.",
+  "output": "You may have the right to withdraw your consent to the processing of your personal data, as well as to access, correct, or delete the personal information that we collect, subject to certain exceptions."
+},
+{
+  "instruction": "Are there situations where SHEIN cannot delete my data?",
+  "input": "[Document Clause]: Please be aware that there are instances where applicable laws or regulatory requirements allow or require us to refuse to provide or delete some or all of the personal information that we maintain.",
+  "output": "There are instances where applicable laws or regulatory requirements allow or require us to refuse to provide or delete some or all of the personal information that we maintain."
+},
+{
+  "instruction": "Can I request portability of my data from SHEIN?",
+  "input": "[Document Clause]: You may have the right under applicable laws to correct or update your personal data, object to processing of your personal data, ask us to restrict processing your personal data or to request portability of your personal data.",
+  "output": "You may have the right under applicable laws to request portability of your personal data."
+},
+{
+  "instruction": "What is the best way to contact SHEIN about privacy issues?",
+  "input": "[Document Clause]: To exercise your rights, you may contact us at legal@shein.com or media@sheingroup.com.",
+  "output": "You may contact us at legal@shein.com or media@sheingroup.com."
+},
+{
+  "instruction": "Does SHEIN collect my location data?",
+  "input": "[Document Clause]: Location data at an IP address-based level, to tailor your experience in terms of displaying the appropriate local website, language, or user experience.",
+  "output": "Location data at an IP address-based level, to tailor your experience in terms of displaying the appropriate local website, language, or user experience."
+},
+{
+  "instruction": "What kind of personal information does SHEIN collect when I contact customer service?",
+  "input": "[Document Clause]: Your communication history with us via various channels, such as email, phone, social media, mail, instant chat, and our customer service platform, to respond to your requests, as well as to keep you updated about the Services.",
+  "output": "Your communication history with us via various channels, such as email, phone, social media, mail, instant chat, and our customer service platform."
+},
+{
+  "instruction": "Why does SHEIN collect my personal information?",
+  "input": "[Document Clause]: Your personal information is collected and used by us to support a range of different activities or business purposes.",
+  "output": "Your personal information is collected and used by us to support a range of different activities or business purposes."
+},
+{
+  "instruction": "What legal basis does SHEIN rely on to process my data?",
+  "input": "[Document Clause]: Our legitimate interest to better understand you, to maintain and improve the accuracy of the information we store about you, and to better promote or optimize our Site.",
+  "output": "Our legitimate interest to better understand you, to maintain and improve the accuracy of the information we store about you, and to better promote or optimize our Site."
+},
+{
+  "instruction": "Does SHEIN respect my privacy?",
+  "input": "[Document Clause]: We respect your privacy, and we are committed to protecting it by complying with this Policy and applicable legal requirements.",
+  "output": "We respect your privacy, and we are committed to protecting it by complying with this Policy and applicable legal requirements."
+},
+{
+  "instruction": "Does SHEIN collect personal data when I use the website?",
+  "input": "[Document Clause]: We collect personal data or personal information when you use our Site.",
+  "output": "We collect personal data or personal information when you use our Site."
+},
+{
+  "instruction": "How does SHEIN define personal information?",
+  "input": "[Document Clause]: Personal data or personal information is any information that identifies or makes an individual person identifiable.",
+  "output": "Personal data or personal information is any information that identifies or makes an individual person identifiable."
+},
+{
+  "instruction": "Is anonymized data considered personal information by SHEIN?",
+  "input": "[Document Clause]: Personal Information does not include data that has been effectively irreversibly anonymized or aggregated so that it can no longer enable us or others, whether in combination with other information or otherwise, to reasonably identify or re-identify you.",
+  "output": "Personal Information does not include data that has been effectively irreversibly anonymized or aggregated so that it can no longer enable us or others, whether in combination with other information or otherwise, to reasonably identify or re-identify you."
+},
+{
+  "instruction": "Does the definition of personal data depend on where I live?",
+  "input": "[Document Clause]: The definition of personal information (used interchangeably in this Privacy Policy with the term “personal data”) depends on where you are a resident.",
+  "output": "The definition of personal information (used interchangeably in this Privacy Policy with the term “personal data”) depends on where you are a resident."
+},
+{
+  "instruction": "What types of contact information does SHEIN collect?",
+  "input": "[Document Clause]: Contact information, including email address or phone number.",
+  "output": "Contact information, including email address or phone number."
+},
+{
+  "instruction": "What’s the purpose of collecting location data by SHEIN?",
+  "input": "[Document Clause]: Location data at an IP address-based level, to tailor your experience in terms of displaying the appropriate local website, language, or user experience.",
+  "output": "To tailor your experience in terms of displaying the appropriate local website, language, or user experience."
+},
+{
+  "instruction": "Does Shein use my communication history to respond to my requests?",
+  "input": "[Document Clause]: Your communication history with us via various channels, such as email, phone, social media, mail, instant chat, and our customer service platform, to respond to your requests, as well as to keep you updated about the Services.",
+  "output": "To respond to your requests, as well as to keep you updated about the Services."
+},
+{
+  "instruction": "Why does SHEIN collect my device and site usage information?",
+  "input": "[Document Clause]: Your device information, and Site usage data for fault analysis, troubleshooting, and system maintenance, as well as setting default options for you, such as language and currency;",
+  "output": "Your device information, and Site usage data for fault analysis, troubleshooting, and system maintenance, as well as setting default options for you, such as language and currency;"
+},
+{
+  "instruction": "can SHEIN share my personal data within its organization?",
+  "input": "[Document Clause]: To share your personal data within and across our corporate organization for our business needs.",
+  "output": "To share your personal data within and across our corporate organization for our business needs."
+},
+{
+  "instruction": "What is the legal basis for processing my data to improve the site?",
+  "input": "[Document Clause]: Our legitimate interest to better understand you, to maintain and improve the accuracy of the information we store about you, and to better promote or optimize our Site",
+  "output": "Our legitimate interest to better understand you, to maintain and improve the accuracy of the information we store about you, and to better promote or optimize our Site"
+},
+{
+  "instruction": "Does SHEIN collect data to prevent fraud and illegal activities?",
+  "input": "[Document Clause]: To prevent and investigate fraud, security incidents, and other illegal activities;",
+  "output": "To prevent and investigate fraud, security incidents, and other illegal activities;"
+},
+{
+  "instruction": "What kind of information is collected automatically for fraud prevention?",
+  "input": "[Document Clause]: Information automatically collected through the Site, such as browser type, device information and operating system for fraud prevention, security monitoring, and detection and credit risk reduction.",
+  "output": "Information automatically collected through the Site, such as browser type, device information and operating system for fraud prevention, security monitoring, and detection and credit risk reduction."
+},
+{
+  "instruction": "Why might SHEIN collect information about my identity?",
+  "input": "[Document Clause]: Certain personal information about your identity may be collected if needed handle and resolve questions, legal disputes, for regulatory investigations purpose, and to comply with lawful requests from a competent law enforcement agency or court.",
+  "output": "Certain personal information about your identity may be collected if needed handle and resolve questions, legal disputes, for regulatory investigations purpose, and to comply with lawful requests from a competent law enforcement agency or court."
+},
+{
+  "instruction": "Is the processing of my data for legal purposes based on compliance obligations?",
+  "input": "[Document Clause]: Compliance with legal obligations or your vital interests",
+  "output": "Compliance with legal obligations or your vital interests"
+},
+{
+  "instruction": "Can SHEIN use my personal data for other purposes?",
+  "input": "[Document Clause]: We may use your personal information for any other purpose disclosed to you prior to you first providing us your personal information or which is reasonably necessary to provide the Site or other related products and/or services requested, with your permission or upon your direction.",
+  "output": "We may use your personal information for any other purpose disclosed to you prior to you first providing us your personal information or which is reasonably necessary to provide the Site or other related products and/or services requested, with your permission or upon your direction."
+},
+{
+  "instruction": "On what legal basis does SHEIN rely to use my personal data for additional purposes that are disclosed to me?",
+  "input": "[Document Clause]: Legal Basis for Processing: Consent",
+  "output": "Consent"
+},
+{
+  "instruction": "Can I send sensitive information through SHEIN’s contact forms?",
+  "input": "[Document Clause]: Please note: When communicating with us by email or through forms on our Site, or when you publicly share content through our Site (if available), please do not send us any sensitive information pertaining to yourself or to others.",
+  "output": "Please do not send us any sensitive information pertaining to yourself or to others."
+},
+{
+  "instruction": "Does SHEIN store sensitive or special category information?",
+  "input": "[Document Clause]: We do not collect or store sensitive information or special categories of information.",
+  "output": "We do not collect or store sensitive information or special categories of information."
+},
+{
+  "instruction": "What kind of data does SHEIN use to set language and currency defaults?",
+  "input": "[Document Clause]: Your device information, and Site usage data for fault analysis, troubleshooting, and system maintenance, as well as setting default options for you, such as language and currency;",
+  "output": "Your device information, and Site usage data for fault analysis, troubleshooting, and system maintenance, as well as setting default options for you, such as language and currency;"
+},
+{
+  "instruction": "With whom does SHEIN share my personal information within its organization?",
+  "input": "[Document Clause]: Within Our Corporate Organization. The Company is a part of a corporate organization that has several legal entities, business processes, management structures and technical systems. We may share your personal information with our related group companies and, in some cases, other affiliates of our corporate group, based on our legitimate interests for business maintenance purposes, or to provide you with the Site.",
+  "output": "We may share your personal information with our related group companies and, in some cases, other affiliates of our corporate group, based on our legitimate interests for business maintenance purposes, or to provide you with the Site."
+},
+{
+  "instruction": "What types of third-party service providers might receive my personal information?",
+  "input": "[Document Clause]: Supplier/Service Provider/Processor Services Offered IT system and software service provider Website hosting services (including cloud storage), mobile app or software optimization services, customer relationship management software, email service providers, or system maintenance services. Customer service provider Assistance with customer services and support. Fraud prevention and information security service provider Identity verification, fraud prevention, or credit risk reduction services to protect our website/app and our business.",
+  "output": "IT system and software service provider Website hosting services (including cloud storage), mobile app or software optimization services, customer relationship management software, email service providers, or system maintenance services. Customer service provider Assistance with customer services and support. Fraud prevention and information security service provider Identity verification, fraud prevention, or credit risk reduction services to protect our website/app and our business."
+},
+{
+  "instruction": "Can SHEIN’s third-party providers use my personal information for purposes other than what it was collected for?",
+  "input": "[Document Clause]: We strive to ensure that our third-party service providers can only use your personal information for a limited set of purposes governed by strict contracts that prevent our service providers from using personal information for any purpose other than that for which we collected it from you.",
+  "output": "We strive to ensure that our third-party service providers can only use your personal information for a limited set of purposes governed by strict contracts that prevent our service providers from using personal information for any purpose other than that for which we collected it from you."
+},
+{
+  "instruction": "When might SHEIN disclose my personal information to comply with legal or regulatory requirements?",
+  "input": "[Document Clause]: To Maintain Legal and Regulatory Compliance. We have the right to disclose your personal information for compliance with a legal obligation, or when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, request from a regulator or any other legal process served on us.",
+  "output": "We have the right to disclose your personal information for compliance with a legal obligation, or when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, request from a regulator or any other legal process served on us."
+},
+{
+  "instruction": "Can SHEIN disclose my personal data if it helps protect the company's or customers’ rights or safety?",
+  "input": "[Document Clause]: We also may disclose your information where we reasonably believe that the disclosure is necessary to enforce our agreements or policies, or if we believe that disclosure will help us protect the rights, property or safety of the Company or our customers.",
+  "output": "We also may disclose your information where we reasonably believe that the disclosure is necessary to enforce our agreements or policies, or if we believe that disclosure will help us protect the rights, property or safety of the Company or our customers."
+},
+{
+  "instruction": "Does SHEIN require my consent to disclose my personal information for other purposes?",
+  "input": "[Document Clause]: Consent. We may disclose your personal information for any purpose with your valid, documented consent.",
+  "output": "We may disclose your personal information for any purpose with your valid, documented consent."
+},
+{
+  "instruction": "In what situations might SHEIN share my personal information during corporate transactions?",
+  "input": "[Document Clause]: Corporate Transactions. We may disclose personal information a buyer, prospective buyer, corporate affiliate, or other successor based on our legitimate interests in the event of a merger, divestiture, restructuring, reorganization, dissolution, or sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding in which personal information held by us about our Site’s users is among the assets transferred.",
+  "output": "We may disclose personal information a buyer, prospective buyer, corporate affiliate, or other successor based on our legitimate interests in the event of a merger, divestiture, restructuring, reorganization, dissolution, or sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding in which personal information held by us about our Site’s users is among the assets transferred."
+},
+{
+  "instruction": "What happens to my personal information if SHEIN undergoes bankruptcy or liquidation?",
+  "input": "[Document Clause]: You acknowledge and agree to our assignment or transfer of rights to your personal information.",
+  "output": "You acknowledge and agree to our assignment or transfer of rights to your personal information."
+},
+{
+  "instruction": "Will SHEIN share aggregated or anonymized data about its users?",
+  "input": "[Document Clause]: Please note that we may disclose, without restriction, aggregated or anonymized information about the users of our Site if such information cannot identify any specific individual.",
+  "output": "We may disclose, without restriction, aggregated or anonymized information about the users of our Site if such information cannot identify any specific individual."
+},
+{
+  "instruction": "Can my personal data be transferred outside my country when I use Shein’s services?",
+  "input": "[Document Clause]: When you access or use our Services, your personal data may be processed or transferred outside the country where you reside, including to the United States, China and/or Singapore. Such countries or jurisdictions may have data protection laws that are different or less protective than the laws of the country or region in which you reside.",
+  "output": "Yes, your personal data may be processed or transferred outside the country where you reside, including to the United States, China and/or Singapore."
+},
+{
+  "instruction": "Are data protection laws outside my country always as protective as my country’s laws?",
+  "input": "[Document Clause]: Such countries or jurisdictions may have data protection laws that are different or less protective than the laws of the country or region in which you reside.",
+  "output": "Such countries or jurisdictions may have data protection laws that are different or less protective than the laws of the country or region in which you reside."
+},
+{
+  "instruction": "What does Shein rely on for transferring data outside the EU or related regions?",
+  "input": "[Document Clause]: For transfers out of the European Union, the European Economic Area, England, or Switzerland, we rely we rely on Standard Contractual Clauses and other appropriate safeguards as permitted under the GDPR to provide this Site pursuant to the Terms & Conditions.",
+  "output": "We rely on Standard Contractual Clauses and other appropriate safeguards as permitted under the GDPR."
+},
+{
+  "instruction": "What should I do if I do not want my data to be transferred outside my country?",
+  "input": "[Document Clause]: If you do not want your information transferred to, processed, or maintained outside of the country or jurisdiction where you reside, you should immediately stop accessing or using the Site.",
+  "output": "You should immediately stop accessing or using the Site."
+},
+{
+  "instruction": "Who can I contact for more information about data transfers and safeguards?",
+  "input": "[Document Clause]: For further details about these transfers and the safeguards that we use to facilitate such transfers, please contact us at legal@shein.com.",
+  "output": "Please contact us at legal@shein.com."
+},
+    {
+        "instruction": "Can I modify Amazon's software to create my own version?",
+        "input": "[Document Clause]: You may not incorporate any portion of the Amazon Software into other programs or compile any portion of it in combination with other programs, or otherwise copy (except to exercise rights granted in this section), modify, create derivative works of, distribute, assign any rights to, or license the Amazon Software in whole or in part.",
+        "output": "No, the terms prohibit modification, reverse engineering, or creating derivative works from Amazon's software."
+    },
+    {
+        "instruction": "Does Amazon provide updates for their software automatically?",
+        "input": "[Document Clause]: We may offer automatic or manual updates to the Amazon Software at any time and without notice to you.",
+        "output": "Yes, Amazon may push automatic updates without prior notice at their discretion."
+    },
+    {
+        "instruction": "What laws apply if I have a dispute with Amazon?",
+        "input": "[Document Clause]: By using any Amazon Service, you agree that applicable federal law, and the laws of the state of Washington, without regard to principles of conflict of laws, will govern these Conditions of Use and any dispute of any sort that might arise between you and Amazon.",
+        "output": "Federal and Washington state laws govern all disputes, regardless of your location."
+    },
+    {
+        "instruction": "If one of Amazon’s terms is deemed invalid, what happens?",
+        "input": "[Document Clause]: If any of these conditions shall be deemed invalid, void, or for any reason unenforceable, that condition shall be deemed severable and shall not affect the validity and enforceability of any remaining condition.",
+        "output": "The invalid provision will be removed, but the rest of the terms remain fully enforceable."
+    },
+    {
+        "instruction": "Can I bypass security features in amazon's software for research?",
+        "input": "[Document Clause]: You may not reverse engineer, decompile or disassemble, tamper with, or bypass any security associated with the Amazon Software, whether in whole or in part.",
+        "output": "No, the terms explicitly prohibit bypassing security measures, even for research purposes."
+    },
+    {
+        "instruction": "Is it okay to use Amazon’s services or content for commercial purposes without approval?",
+        "input": "[Document Clause]: This license does not include any resale or commercial use of any Amazon Service, or its contents; any collection and use of any product listings, descriptions, or prices; any derivative use of any Amazon Service or its contents; any downloading, copying, or other use of account information for the benefit of any third party; or any use of data mining, robots, or similar data gathering and extraction tools.",
+        "output": "No, commercial use of Amazon Services or their content is not allowed without Amazon’s express written consent."
+    },
+    {
+        "instruction": "Is Amazon liable for things users post on its platform?",
+        "input": "[Document Clause]: Amazon takes no responsibility and assumes no liability for any content posted by you or any third party.",
+        "output": "No, Amazon does not take responsibility or liability for user-submitted content."
+    },
+    {
+        "instruction": "Can I use Amazon Services for data scraping?",
+        "input": "[Document Clause]: This license does not include any resale or commercial use of any Amazon Service, or its contents; any collection and use of any product listings, descriptions, or prices; any derivative use of any Amazon Service or its contents; any downloading, copying, or other use of account information for the benefit of any third party; or any use of data mining, robots, or similar data gathering and extraction tools.",
+        "output": "No, Amazon prohibits the use of data mining and similar automated tools on its Services."
+    },
+    {
+        "instruction": "What happens if Amazon’s product description was incorrect?",
+        "input": "[Document Clause]: Amazon does not warrant that product descriptions or other content of any Amazon Service is accurate, complete, reliable, current, or error-free. If a product offered by Amazon itself is not as described, your sole remedy is to return it in unused condition.",
+        "output": "You can return the product in unused condition if it was inaccurately described by Amazon."
+    },
+    {
+        "instruction": "What types of losses or damages is ebay not responsible for?",
+        "input": "[Document Clause]: WITHOUT LIMITING THE GENERALITY OF THE FOREGOING, WE (INCLUDING OUR PARENT, SUBSIDIARIES, AND AFFILIATES, AND OUR AND THEIR OFFICERS, DIRECTORS, AGENTS, AND EMPLOYEES) ARE NOT LIABLE, AND YOU AGREE NOT TO HOLD US RESPONSIBLE, FOR ANY DAMAGES OR LOSSES (INCLUDING, BUT NOT LIMITED TO, LOSS OF MONEY, GOODWILL OR REPUTATION, PROFITS, OTHER INTANGIBLE LOSSES, OR ANY SPECIAL, INDIRECT, OR CONSEQUENTIAL DAMAGES) RESULTING DIRECTLY OR INDIRECTLY FROM",
+        "output": "eBay isn’t responsible for losses or damages that result from your content, your inability to use the Services, pricing or shipping guidance, service delays, viruses, bugs, hardware damage, third-party actions, account suspensions, listing visibility, or the need to change your practices due to policy updates."
+    },
+    {
+        "instruction": "What happens if I have a dispute with another user?",
+        "input": "[Document Clause]: If you have a dispute with one or more users, you release us (and our affiliates and subsidiaries, and our and their respective officers, directors, employees, and agents) from claims, demands, and damages (actual and consequential) of every kind and nature, known and unknown, arising out of or in any way connected with such disputes.",
+        "output": "If you have a dispute with another user, you agree to release eBay and its affiliates from all claims, demands, and damages—whether known or unknown—that are connected to that dispute."
+    },
+    {
+        "instruction": "If eBay doesn't act when I or someone else breaks the rules, does that mean it's okay?",
+        "input": "[Document Clause]: Our failure to act with respect to a breach by you or others does not waive our right to act with respect to subsequent or similar breaches. We do not guarantee we will take action against all breaches of this User Agreement.",
+        "output": "No, if eBay doesn't act on a violation, that doesn't mean it gives up the right to take action later for the same or similar issues."
+    },
+
+    {
+        "instruction": "Can Nike change the Terms of Use, and what happens if I don’t agree with the changes?",
+        "input": "[Document Clause]: Our Terms May Change. Some jurisdictions do not permit unilateral updates or changes to consumer terms, so this paragraph may not apply to you. [See Canada terms.] We may update these Terms from time to time. If a material change is made, we will post a notice on the Platform or send you a notification. Read through any changes, and if you don’t agree to them, please stop using the Platform. If you continue to use our Platform after we notify you of changes, you will be deemed to have accepted the updated Terms, except to the extent prohibited by applicable law.",
+        "output": "Yes, Nike may update the Terms of Use from time to time. If you don’t agree with the changes, you should stop using the Platform. Continuing to use the Platform after being notified of the changes is considered acceptance of the new Terms, unless prohibited by law in your location."
+    },
+    {
+        "instruction": "Who is eligible to use Nike’s Platform?",
+        "input": "[Document Clause]: Eligibility. You are only eligible to use the Platform if you are of legal age in your country/region or if you have consent from your parent or guardian. There may be certain age restrictions for specific Platform services in various countries or regions.",
+        "output": "you are eligible to use the Platform if you're of legal age in your country or have permission from a parent or guardian. Some services may have additional age restrictions depending on your location."
+    },
+    {
+        "instruction": "Do I own the content I post on the platform?",
+        "input": "[Document Clause]: User Content is owned by you or whoever created it, but when you post User Content you license it to NIKE as described below:",
+        "output": "Yes, you own the content you post, but you license it to NIKE with broad usage rights."
+    },
+    {
+        "instruction": "Can I use NIKE’s graphics and designs for commercial purposes?",
+        "input": "[Document Clause]: Outside of the specific usage rights granted to you by NIKE in connection with the Platform, you agree not to use, copy, edit, translate, display, distribute, download, transmit, sell, create derivative works of, or in any way exploit any Content, including User Content (unless it is your own User Content that you legally post on the Platform), without NIKE’s prior written consent.",
+        "output": "No, you may not use NIKE's content, including graphics and designs, for commercial purposes without written consent."
+    },
+    {
+        "instruction": "Can I delete my user content after posting it?",
+        "input": "[Document Clause]: You understand that deleted User Content may persist in NIKE’s systems and on the Platform to the extent your User Content has been publicly posted or shared with others who have not deleted it, unless you or the relevant individual request deletion or blocking of personal data in accordance with applicable law.",
+        "output": "Yes, but deleted content may persist unless deletion is specifically requested under applicable law."
+    },
+    {
+        "instruction": "Can Nike use my feedback ideas commercially without paying me?",
+        "input": "[Document Clause]: You understand that any comments, feedback, or ideas you send us are provided on a non-confidential basis and you grant to NIKE a perpetual, worldwide license to use all comments, feedback and ideas you may share with us, without notice, compensation or acknowledgement to you, for any purposes whatsoever, including, but not limited to, developing, manufacturing and marketing products and services and creating, modifying or improving products and services.",
+        "output": "Yes, Nike can use your feedback and ideas commercially without compensating or acknowledging you."
+    },
+    {
+        "instruction": "Is it okay to use bots to gather data from the platform?",
+        "input": "[Document Clause]: Do not use any data mining, robots, scraping or similar data gathering methods.",
+        "output": "No, using bots or similar data gathering methods is not allowed."
+    },
+    {
+        "instruction": "will nike always remove inappropriate content?",
+        "input": "[Document Clause]: NIKE has the right to prescreen, monitor, or remove User Content – but we have no obligation to do so.",
+        "output": "No, Nike may remove inappropriate content but is not obligated to do so."
+    },
+    {
+        "instruction": "If Nike links to another website, does that mean it’s safe or approved by Nike?",
+        "input": "[Document Clause]: You may be able to connect with these Third Parties through the Platform, but this does not mean NIKE endorses, monitors or has any control over these Third Parties or their activities, which are subject to separate terms of use and privacy policies.",
+        "output": "No, just because Nike links to a third-party site doesn’t mean they endorse or control it."
+    },
+    {
+        "instruction": "If I get hurt doing a workout from the nike app, can I blame Nike?",
+        "input": "[Document Clause]: TO THE MAXIMUM EXTENT ALLOWED BY APPLICABLE LAW, NIKE IS NOT RESPONSIBLE OR LIABLE FOR ANY INJURIES OR DAMAGES YOU MAY SUSTAIN THAT RESULT FROM YOUR USE OF, OR INABILITY TO USE, THE FEATURES ON THE PLATFORM.",
+        "output": "No, Nike isn’t liable for any injuries you might get while using their fitness features."
+    },
+    {
+        "instruction": "Will Nike take responsibility for negative experiences with other users?",
+        "input": "[Document Clause]: To the extent allowed by applicable law, we are not responsible for your interactions with other users of the Platform or any damage or harm you may experience because of these interactions.",
+        "output": "No, Nike generally isn’t responsible for what happens between users."
+    },
+    {
+        "instruction": "How can I protect myself when arranging an in-person meeting via Nike’s platform?",
+        "input": "[Document Clause]: Before you meet another person face-to-face, consider investigating, bringing a friend, choosing public locations and letting someone know where you will be.",
+        "output": "You should take safety measures like meeting in public, telling someone where you're going, or bringing a friend."
+    },
+    {
+        "instruction": "Can Nike shut down my account whenever they want?",
+        "input": "[Document Clause]: NIKE may terminate or suspend your account, delete your profile or any of your User Content, and restrict your use of all or any part of the Platform at any time and for any reason, without any liability to Nike, subject to applicable law.",
+        "output": " Yes, Nike can terminate or suspend your account, delete your profile, or restrict your access to the platform at any time and for any reason, without notice or liability—though this is subject to applicable laws."
+    },
+    {
+        "instruction": "will my posts still be visible if nike deletes my account?",
+        "input": "[Document Clause]: You understand and agree that some of your User Content, particularly that which is displayed in an activity feed or in other public places on the Platform, may continue to appear publicly even after your account is terminated, subject to your right to have your User Content removed upon request in accordance with applicable law.",
+        "output": "Some of your public posts (e.g., in activity feeds) may remain visible even after account termination, but you can request their removal under applicable law."
+    },
+    {
+        "instruction": "If I sue Nike, how much can I potentially recover?",
+        "input": "[Document Clause]: IF NIKE IS FOUND TO BE LIABLE TO YOU FOR ANY DAMAGE OR LOSS WHICH IS IN ANY WAY CONNECTED WITH YOUR USE OF THE PLATFORM OR ANY CONTENT, NIKE'S LIABILITY SHALL NOT EXCEED US$100.00 OR EURO 100.00 IF YOU LIVE IN EUROPE.",
+        "output": "Nike's maximum liability is capped at $100 (or €100 in Europe) for damages related to platform use, unless prohibited by local laws."
+    },
+    {
+        "instruction": "Can I join a class action lawsuit against Nike?",
+        "input": "[Document Clause]: Except where prohibited by applicable law, and without limitation to any statutory rights for consumers, you agree that all disputes, claims and legal proceedings directly or indirectly arising out of or relating to the Platform (including but not limited to the purchase of NIKE products) shall be resolved individually, without resort to any form of class action, and exclusively in the state or federal courts located in Multnomah County, Oregon, USA.",
+        "output": "No, Nike's terms require disputes to be resolved individually, waiving your right to participate in class actions (unless prohibited by your local laws)."
+    },
+    {
+        "instruction": "If I'm in Australia, do I have any extra rights under Nikes terms?",
+        "input": "[Document Clause]: However, the Platform, Content, and the materials and products on this Platform come with certain guarantees that cannot be excluded for the benefit of Australian customers under Australian consumer law ('ACL')), including guarantees as to the acceptable quality and fitness of purpose of products.",
+        "output": "Yes, Australian consumers retain rights under ACL (e.g., guarantees of acceptable product quality) that cannot be overridden by Nike's terms."
+    },
+    {
+        "instruction": "Can Nike change these terms whenever they want?",
+        "input": "[Document Clause]: NIKE may terminate or modify any Nike Platform, member program, product or service at any time without notice.",
+        "output": "Nike reserves the right to modify terms without notice, though some countries (e.g., Canada) require advance notice and opt-out rights."
+    },
+    {
+        "instruction": "Which legal system governs disputes for users based in Brazil?",
+        "input": "[Document Clause]: You agree that the Platform, Terms, Privacy Policy and any dispute between you and NIKE shall be governed in all respects by Brazilian law, without regard to choice of law provisions, and not by the 1980 U.N. Convention on Contracts for the International Sale of Goods. ",
+        "output": "Brazilian law governs disputes for Brazilian users, and legal actions must be filed individually in Brazil."
+    },
+    {
+        "instruction": "If I'm in Japan and have a dispute with Nike, which country's laws apply?",
+        "input": "[Document Clause]: You agree that the Platform, Terms, Privacy Policy and any dispute between you and NIKE shall be governed in all respects by Japanese law, without regard to choice of law provisions, and not by the 1980 U.N. Convention on Contracts for the International Sale of Goods.",
+        "output": "For Japanese users, disputes are governed exclusively by Japanese law, and the UN Convention on Contracts does not apply."
+    },
+    {
+        "instruction": "What's the maximum amount Nike would owe me if they're found liable in Japan?",
+        "input": "[Document Clause]: IF NIKE IS FOUND TO BE LIABLE TO YOU FOR ANY DAMAGE OR LOSS WHICH IS IN ANY WAY CONNECTED WITH YOUR USE OF THE PLATFORM OR ANY CONTENT, NIKE'S LIABILITY SHALL NOT EXCEED US$100.00 OR EURO 100.00 IF YOU LIVE IN EUROPE.",
+        "output": "Nike's liability is capped at $100 (or €100 in Europe), but Japanese consumer laws may override this limitation."
+    },
+    {
+        "instruction": "If I post a workout video on nike's Philippine platform, can they sell it to others?",
+        "input": "[Document Clause]: You grant NIKE a non-exclusive, indefinite, transferable, sub-licensable, royalty-free, worldwide license to use any of the User Content that you post on or in connection with the Platform, including the likeness of any person that appears in the User Content, or any of the concepts or ideas contained in the User Content, for any purpose, including commercial use, which includes the right to translate, display, reproduce, modify, create derivative works, sublicense, distribute and assign these rights.",
+        "output": "Yes, Nike gains broad commercial rights to your User Content under Philippine terms, though you retain ownership."
+    },
+
+
+
+
+    {
+      "instruction": "Can Meta use my religious or political views?",
+      "input": "[Document Clause]: Data with special protections: You can choose to provide information in your Facebook profile fields or Life Events about your religious views, political views, who you are \"interested in,\" or your health. This and other information (such as racial or ethnic origin, philosophical beliefs or trade union membership) could be subject to special protections under the laws of your country. Networks and connections. We collect information about the people, accounts, hashtags and Facebook groups, and Pages you are connected to and how you interact with them across our Products",
+      "output": "Meta may collect sensitive data like religious or political views if you provide them, but this data may have special protections under your country’s laws."
+    },
+    {
+      "instruction": "Can Meta access the metadata of photos I upload?",
+      "input": "[Document Clause]: Information and content you provide. We collect the content, communications and other information you provide when you use our Products, including when you sign up for an account, create or share content, and message or communicate with others. This can include information in or about the content you provide (like metadata), such as the location of a photo or the date a file was created. It can also include what you see through features we provide, such as our camera, so we can do things like suggest masks and filters that you might like, or give you tips on using camera formats.",
+      "output": "Yes, Meta can access metadata like location or creation date of your photos."
+    },
+    {
+      "instruction": "does Meta collect sensitive information like health and political views?",
+      "input": "[Document Clause]: Data with special protections: You can choose to provide information in your Facebook profile fields or Life Events about your religious views, political views, who you are \"interested in,\" or your health. This and other information (such as racial or ethnic origin, philosophical beliefs or trade union membership) could be subject to special protections under the laws of your country. Networks and connections. We collect information about the people, accounts, hashtags and Facebook groups,",
+      "output": "Yes, Meta may collect sensitive data like your health or political views if you choose to share them."
+    },
+    {
+      "instruction": "How does Meta use contact data from my phone?",
+      "input": "[Document Clause]: We also collect contact information if you choose to upload, sync or import it from a device (such as an address book or call log or SMS log history), which we use for things like helping you and others find people you may know and for the other purposes listed below. Your usage. ",
+      "output": "Meta uses your synced contact information to help connect you with others and for other platform-related purposes."
+    },
+    {
+      "instruction": "What happens if others upload content that includes me?",
+      "input": "[Document Clause]: Things others do and information they provide about you. We also receive and analyze content, communications and information that other people provide when they use our Products. This can include information about you, such as when others share or comment on a photo of you, send a message to you, or upload, sync or import your contact information.",
+      "output": "Meta can receive and analyze information about you from other people’s actions, like when they upload or tag you in content."
+    },
+    {
+      "instruction": "Can Meta track how I use their products across multiple devices?",
+      "input": "[Document Clause]: Device Information As described below, We collect information from and about the computers, phones, connected TVs and other web-connected devices you use that integrate with our Products, and we combine this information across different devices you use. For example, we use information collected about your use of our Products on your phone to better personalize the content (including ads) or features you see when you use our Products on another device, such as your laptop or tablet,",
+      "output": "Yes, Meta combines data from all your devices to personalize your experience across them."
+    },
+    {
+      "instruction": "What kind of information do Meta’s partners send to them?",
+      "input": "[Document Clause]: Information from partners. Advertisers, app developers, and publishers can send us information through Meta Business Tools they use, including our social plug-ins (such as the Like button), Facebook Login, our APIs and SDKs, or the Meta pixel. These partners provide information about your activities off of our Products—including information about your device, websites you visit, purchases you make, the ads you see and how you use their services",
+      "output": "Meta’s partners may send them data about your off-platform activities, like websites visited, purchases, or app usage."
+    },
+    {
+      "instruction": "Can Meta receive my purchase history from third-party businesses?",
+      "input": "[Document Clause]: whether or not you have an account or are logged into our Products. For example, a game developer could use our API to tell us what games you play, or a business could tell us about a purchase you made in its store. We also receive information about your online and offline actions and purchases from third-party data providers who have the rights to provide us with your information.",
+      "output": "Yes, Meta can receive your purchase history from businesses and data providers with legal rights to share it."
+    },
+    {
+      "instruction": "How does Meta use my personal data to personalize content and ads?",
+      "input": "[Document Clause]: Provide, personalize and improve our Products. We use the information we have to deliver our Products, including to personalize features and content (including your ads, Facebook News Feed, Instagram Feed, and Instagram Stories) and make suggestions for you (such as groups or events you may be interested in or topics you may want to follow) on and off our Products. To create personalized Products that are unique and relevant to you, we use your connections, preferences, interests and activities based on the data we collect and learn from you and others (including any data with special protections you choose to provide);",
+      "output": "Meta uses your data like interests and interactions to personalize content and ads across its platforms."
+    },
+    {
+      "instruction": "Can my Facebook activity influence what I see on instagram?",
+      "input": "[Document Clause]: Information across Meta Products and devices: We connect information about your activities on different Meta Products and devices to provide a more tailored and consistent experience on all Meta Products you use, wherever you use them. For example, we can suggest that you join a group on Facebook that includes people you follow on Instagram or communicate with using Messenger. We can also make your experience more seamless, for example, by automatically filling in your registration information (such as your phone number) from one Meta Product when you sign up for an account on a different Product.",
+      "output": "Yes, your activity on one Meta platform can influence what you see on another, like Instagram or Messenger."
+    },
+    {
+      "instruction": "Does Meta use my location data to personalize ads?",
+      "input": "[Document Clause]: We use location-related information-such as your current location, where you live, the places you like to go, and the businesses and people you're near-to provide, personalize and improve our Products, including ads, for you and others. Location-related information can be based on things like precise device location (if you've allowed us to collect it), IP addresses, and information from your and others' use of Meta Products (such as check-ins or events you attend). Product research and development:",
+      "output": "Yes, Meta uses your location data to personalize ads and other product features."
+    },
+    {
+      "instruction": "What does Meta do with the information I give during a survey or test?",
+      "input": "[Document Clause]: Product research and development: We use the information we have to develop, test and improve our Products, including by conducting surveys and research, and testing and troubleshooting new products and features. Ads and other sponsored content: We use",
+      "output": "Meta uses survey and test data to improve and develop new products and features."
+    },
+    {
+      "instruction": "how does meta decide which sponsored content to show me?",
+      "input": "[Document Clause]: Ads and other sponsored content: We use the information we have about you—including information about your interests, actions and connections—to select and personalize ads, offers and other sponsored content... your choices over the data we use to select ads and other sponsored content for you in the Facebook Settings and Instagram Settings. Provide measurement, analytics, and other business services.",
+      "output": "Meta uses your activity, interests, and connections to decide which sponsored content or ads to show you."
+    },
+    {
+      "instruction": "What kind of data does meta use to detect spam or harmful activity?",
+      "input": "[Document Clause]: Promote safety, integrity and security. We use the information we have to verify accounts and activity, combat harmful conduct, detect and prevent spam and other bad experiences, maintain the integrity of our Products, and promote safety and security on and off of Meta Products. For example, we use data we have to investigate suspicious activity or violations of our terms or policies, or to detect when someone needs help. To learn more, visit the Facebook Security Help Center and Instagram Security Tips.",
+      "output": "Meta uses user data to detect spam, prevent harmful behavior, and ensure platform safety."
+    },
+    {
+      "instruction": "Does Meta use my off platform activity to help advertisers?",
+      "input": "[Document Clause]: Provide measurement, analytics, and other business services. We use the information we have (including your activity off our Products, such as the websites you visit and ads you see) to help advertisers and other partners measure the effectiveness and distribution of their ads and services, and understand the types of people who use their services",
+      "output": "Yes, Meta uses off-platform activity like website visits to provide analytics to advertisers and partners."
+    },
+    {
+      "instruction": "Does Meta use my data to contact me about policy changes?",
+      "input": "[Document Clause]: We use the information we have to send you marketing communications, communicate with you about our Products, and let you know about our policies and terms. We also use your information to respond to you when you contact us. Research and innovate for social good.",
+      "output": "Yes, Meta may use your data to notify you about updates to their policies or terms."
+    },
+    {
+      "instruction": "How is Meta involved in social research or crisis response?",
+      "input": "[Document Clause]: Research and innovate for social good. We use the information we have (including from research partners we collaborate with) to conduct and support research and innovation on topics of general social welfare, technological advancement, public interest, health and well-being. For example, we analyze information we have ",
+      "output": "Meta uses data for research and to support responses to societal issues like crisis relief or health."
+    },
+    {
+      "instruction": "Can someone reshare content I sent in a private message on messenger?",
+      "input": "[Document Clause]: because people who can see your activity on our Products can choose to share it with others on and off our Products, including people and businesses outside the audience you shared with. For example, when you share a post or send a message to specific friends or accounts, they can download, screenshot, or reshare that content to others across or off our Products, in person or in virtual reality ",
+      "output": "Yes, people you message can reshare, screenshot, or download your content, even if it was privately shared."
+    },
+    {
+      "instruction": "Does Meta sell my personal information to advertisers?",
+      "input": "[Document Clause]: makes it possible to operate our companies and provide free services to people around the world. We don't sell any of your information to anyone, and we never will. We also impose strict restrictions on how our partners can use and disclose the data we provide.",
+      "output": "No, Meta does not sell your personal information to advertisers or anyone else."
+    },
+    {
+      "instruction": "will developers lose access to my data if I stop using the app?",
+      "input": "[Document Clause]: in the process of restricting developers’ data access even further to help prevent abuse. For example, we will remove developers' access to your Facebook and Instagram data if you haven't used their app in 3 months, and we are changing Login, so that in the next version",
+      "output": "Yes, developers will lose access to your data if you haven’t used their app in 3 months."
+    },
+    {
+      "instruction": "Do Facebook and Whatsapp share data between them?",
+      "input": "[Document Clause]: How do the Meta Companies work together? Facebook and Instagram share infrastructure, systems and technology with other Meta Companies (which include WhatsApp and Oculus) to provide an innovative, relevant, consistent and safe experience across all Meta Company Products you use. We also process information about you across the Meta Companies for these purposes, as permitted by applicable law",
+      "output": "Yes, Meta Companies like Facebook and WhatsApp share data and infrastructure to deliver consistent and safe experiences."
+    },
+    {
+      "instruction": "Can information from WhatsApp be used to take action on Facebook?",
+      "input": "[Document Clause]: for these purposes, as permitted by applicable law and in accordance with their terms and policies. For example, we process information from WhatsApp about accounts sending spam on its service so we can take appropriate action against those accounts on Facebook, Instagram or Messenger. We also work ",
+      "output": "Yes, Meta may act on Facebook accounts based on spam-related information from WhatsApp."
+    },
+    {
+      "instruction": "Can I delete the search history from my Facebook account?",
+      "input": "[Document Clause]: when you search for something on Facebook, you can access and delete that query from within your search history at any time, but the log of that search is deleted after 6 months. If you submit a copy of your government-issued ID for account verification purposes, we delete that copy 30 days after review, unless otherwise stated. Learn more about ",
+      "output": "Yes, you can manually delete your Facebook search queries, and the system also deletes logs after 6 months."
+    },
+    {
+      "instruction": "What happens to my data if I delete my Facebook account?",
+      "input": "[Document Clause]: content you have shared and cookie data obtained through social plugins. When you delete your account, we delete things you have posted, such as your photos and status updates, and you won't be able to recover that information later. Information that others have shared about you isn't part of your account and won't be deleted. If you don't want to ",
+      "output": "Your posts and updates are deleted, but content others shared about you remains visible."
+    },
+    {
+      "instruction": "Will Meta keep a copy of my government ID if I upload it?",
+      "input": "[Document Clause]: from within your search history at any time, but the log of that search is deleted after 6 months. If you submit a copy of your government-issued ID for account verification purposes, we delete that copy 30 days after review, unless otherwise stated.",
+      "output": "Meta deletes your uploaded government ID 30 days after reviewing it, unless specified otherwise."
+    },
+    {
+      "instruction": "Can I temporarily stop using my account instead of deleting it?",
+      "input": "[Document Clause]: When you delete your account, we delete things you have posted, such as your photos and status updates, and you won't be able to recover that information later. Information that others have shared about you isn't part of your account and won't be deleted. If you don't want to delete your account but want to temporarily stop using the Products, you can deactivate your account instead.",
+      "output": "Yes, you can deactivate your account temporarily without deleting it."
+    },
+    {
+      "instruction": "Does meta respond to legal requests from outside the US?",
+      "input": "[Document Clause]: This may include responding to legal requests from jurisdictions outside of the United States when we have a good-faith belief that the response is required by law in that jurisdiction, and is consistent with internationally recognized standards. When we have a good-faith ",
+      "output": "Yes, Meta may respond to legal requests from other countries if they believe it’s legally required and justified."
+    },
+    {
+      "instruction": "When can Meta access and share my data with authorities?",
+      "input": "[Document Clause]: We access, preserve and share your information with regulators, law enforcement or others: In response to a legal request (like a search warrant, court order or subpoena) if we have a good faith belief that the law requires us to do so. This may include responding to legal requests from jurisdictions outside of the United States when we have a good-faith belief that the response is required by law in that jurisdiction, affects users in that jurisdiction, and is consistent with internationally recognized standards. When we have a good-faith belief it is necessary to: detect, prevent and address fraud, unauthorized use of the Products, violations of our terms or policies, or other harmful or illegal activity; to protect ourselves (including our rights, property or Products), you or others, including as part of investigations",
+      "output": "Meta may share your data when responding to legal requests or to prevent harm, fraud, or violations."
+    },
+    {
+      "instruction": "If I disable my account, will Meta keep my data afterwards?",
+      "input": "[Document Clause]: Information we receive about you (including financial transaction data related to purchases made on our Products) can be accessed and preserved for an extended period when it is the subject of a legal request or obligation, governmental investigation, or investigations of possible violations of our terms or policies, or otherwise to prevent harm. We also retain information from accounts disabled for terms violations for at least a year to prevent repeat abuse...",
+      "output": "Yes, data from disabled accounts is retained for at least a year to help prevent repeat violations."
+    },
+    {
+      "instruction": "can data about financial transactions be kept for investigations?",
+      "input": "[Document Clause]: activity on and off our Products. Information we receive about you (including financial transaction data related to purchases made on our Products) can be accessed and preserved for an extended period when it is the subject of a legal request or obligation, governmental investigation, or investigations of possible violations",
+      "output": "Yes, Meta may retain your financial transaction data for investigations or legal obligations."
+    },
+    
+
+
+
+
+
+
+
+    
+  {
+    "instruction": "What types of personal information does adidas collect about me?",
+    "input": "[Document Clause]: Website (including adidas Running and Training). Examples: activity type, distance, exercise duration, fitness score, pace and speed. From Where Do We Collect Personal Information? FROM YOU We collect Personal Information you provide to us. Examples:   If you register for adiClub membership   If you make a purchase",
+    "output": "Adidas collects various types of personal information including identity and contact info, payment and purchase history, device and location data, social media interactions, body measurements, usage behavior on their website, and information related to your adiClub membership."
+  },
+  {
+    "instruction": "How does adidas use my personal data to improve my shopping experience?",
+    "input": "[Document Clause]: process (and allow others to process) personal information to show you targeted ads on nonadidas websites and applications. We do this via cookies and other tracking technologies, or in some cases, we disclose certain information (such as your email address or phone number) to our advertising partners, who then translate this information into a unique identifier. This unique",
+    "output": "Adidas uses personal data to identify correct sizing, show relevant items based on previous interactions, encourage purchases, and personalize the shopping journey across its platforms."
+  },
+  {
+    "instruction": "What should I do if I want to unsubscribe from adidas marketing emails?",
+    "input": "[Document Clause]: and functionality. DISPLAY TARGETED ADS AND SEND CUSTOMIZED MARKETING MESSAGES AND NOTIFICATIONS   Send you personalized marketing messages via email or (if you have our app) push notifications based on our information about you, your interests and your interactions with us. You can unsubscribe from marketing emails and adjust your device settings to disallow",
+    "output": "You can unsubscribe from adidas marketing emails by following the instructions in the email or by adjusting your device settings to disable push notifications."
+  },
+  {
+    "instruction": "Does adidas track how I use their website?",
+    "input": "[Document Clause]: on our servers located in the United States and around the world. The information collected by adidas may be subject to international and U. S. state and federal law. If you are accessing our Website from outside the U. S. , please be advised that you are transferring your personal information to us in the United States where data protection and privacy laws may be different",
+    "output": "Yes, adidas collects usage information such as site visits, clicked links, referral URLs, clickstream data, and interactions with marketing emails using cookies and tracking technologies."
+  },
+  {
+    "instruction": "Where does adidas get my personal data from?",
+    "input": "[Document Clause]: on our servers located in the United States and around the world. The information collected by adidas may be subject to international and U. S. state and federal law. If you are accessing our Website from outside the U. S. , please be advised that you are transferring your personal information to us in the United States where data protection and privacy laws may be different",
+    "output": "Adidas collects data directly from users, from third parties like social media networks and partners, and automatically through tracking tools on its website and apps."
+  },
+  {
+    "instruction": "What is adidas adiClub and what data is collected through it?",
+    "input": "[Document Clause]: Website (including adidas Running and Training). Examples: activity type, distance, exercise duration, fitness score, pace and speed. From Where Do We Collect Personal Information? FROM YOU We collect Personal Information you provide to us. Examples:   If you register for adiClub membership   If you make a purchase",
+    "output": "adiClub is adidas’s membership program. Data collected includes registration details, engagement history, membership points, rewards, demographic info, and possibly social media identifiers if used to log in."
+  },
+  {
+    "instruction": "Does adidas collect data from social media platforms?",
+    "input": "[Document Clause]: social media. We may also collect scans, videos and images if you choose to participate in certain research projects with us. FITNESS ACTIVITY Information connected to your fitness activity, if you choose to track this activity using our Website (including adidas Running and Training). Examples: activity type, distance, exercise duration, fitness score, pace and speed.",
+    "output": "Yes, adidas collects information from social media interactions such as posts, mentions, hashtags, and publicly available profile data to enrich customer profiles and for marketing purposes."
+  },
+  {
+    "instruction": "How does adidas handle personal data to detect fraud?",
+    "input": "[Document Clause]: or (c) to protect the personal safety of adidas employees, customers or the public.   We may need to keep some personal information as evidence in case of a dispute, complaint or audit. OTHER BUSINESS PURPOSES   We may collect CCTV video in adidas stores to limit fraud and investigate crimes.   We use Usage Information to detect and investigate fraud and to provide statistical",
+    "output": "Adidas uses a combination of user-provided data, automatically collected information, and inputs from third-party fraud prevention tools to detect and investigate fraudulent activities and ensure security."
+  },
+  {
+    "instruction": "What rights do I have if I live in California or another U.S. state with privacy laws?",
+    "input": "[Document Clause]: No relevant clause was found.",
+    "output": "If you're a resident of certain U.S. states like California, you may have additional rights and notices regarding your personal information. More details are provided in Section 10 of adidas’s Privacy Policy."
+  },
+  {
+    "instruction": "What happens if I participate in an adidas sweepstakes?",
+    "input": "[Document Clause]:   If you participate in a contest or sweepstakes, respond to a survey or register for an event. FROM THIRD PARTIES We receive information about you from third parties. Examples:   Our affiliate companies in the adidas Group.   Our service providers, contractors and vendors (such as advertising networks, fraud prevention companies and analytics companies).",
+    "output": "When you participate in a sweepstakes, adidas collects personal information such as contact details, product preferences, adiClub data, and other info needed to verify eligibility and administer prizes."
+  },
+  {
+    "instruction": "What are cookies and how does adidas use them?",
+    "input": "[Document Clause]: How Do We Use Cookies and Other Tracking Technologies? Like many websites, we use cookies, tags, pixels, beacons and other tracking technologies (collectively referred to as \"Cookies\"). Cookies are files stored on your computer's hard drive by your browser to enable the Website to remember you, your actions and preferences (such as",
+    "output": "Cookies are small files stored on your device to remember your preferences and actions over time. Adidas uses cookies to optimize your shopping experience, retain cart items, send reminders, and gather usage statistics. They also help select relevant advertisements and track responses to those ads."
+  },
+  {
+    "instruction": "Can I opt out of adidas tracking cookies?",
+    "input": "[Document Clause]: of declining or accepting a particular Cookie (or Cookies) from a particular website. You may also visit www. aboutads. info/choices/ and http://optout. networkadvertising. org/#/. In addition, if you prefer to opt out of having your information used for cookie-based ad targeting activities, you can visit the “Your Privacy Choices” link at the bottom of our websites. And, if you are on an adidas",
+    "output": "Yes, you can disable cookies in your browser settings, opt out of targeted advertising through links like www.aboutads.info/choices and optout.networkadvertising.org, or manage settings in adidas apps and websites via the 'Your Privacy Choices' link or the 'Manage Account' section."
+  },
+  {
+    "instruction": "Does adidas share my personal data with third-party vendors?",
+    "input": "[Document Clause]: with our influencers, or to log into your adidas account and shop for our products.   Business partners who have your permission to share your data with us. For example, if we co-host events or contests with certain sports entities or if we have co-branded websites. AUTOMATICALLY   We gather certain information automatically when you visit our Website (including apps)",
+    "output": "Yes, adidas shares data with third-party service providers and vendors who support functions like marketing, web analytics, chat support, fraud detection, and payment processing. These providers are contractually obligated to maintain confidentiality and use the data only as necessary."
+  },
+  {
+    "instruction": "How does adidas handle government or legal requests for personal data?",
+    "input": "[Document Clause]: communications, in order to: (a) comply with the law or respond to lawful requests or legal process; (b) protect the rights or property of adidas or our customers, including the enforcement of our agreements or policies governing your use of our Websites and services; or (c) to protect the personal safety of adidas employees, customers or the public.",
+    "output": "Adidas may disclose your information to government authorities, courts, or law enforcement if required to comply with legal obligations or for safety purposes."
+  },
+  {
+    "instruction": "What are my privacy rights as an adidas customer?",
+    "input": "[Document Clause]: websites and services, but they may be less relevant because they aren't based on your interests. NON-DISCRIMINATION We will not discriminate against you if you choose to exercise your privacy rights. How Can You Contact adidas? If you have questions or comments about our privacy practices, please contact us by e-mail privacy. policy@adidas. com or by mail at the following address adidas America",
+    "output": "You have the right to access, delete, or correct your personal data, opt out of marketing, and opt out of targeted advertising. You can exercise these rights through your account settings, the 'Your Privacy Choices' link, or by contacting Customer Service."
+  },
+  {
+    "instruction": "How do I opt out of receiving marketing emails from adidas?",
+    "input": "[Document Clause]: visit the “Your Privacy Choices” link at the bottom of our websites. And, if you are on an adidas app, you can opt out by clicking the settings icon and going to “Manage Account” under “App Settings. ” How Do We Disclose Your Personal Information? Except as described in this Policy, we will not disclose your personal information outside of adidas and the adidas Group without your consent.",
+    "output": "You can unsubscribe from adidas marketing emails by clicking the 'unsubscribe' link in emails, adjusting preferences in your adiClub account, or following opt-out instructions in other communications."
+  },
+  {
+    "instruction": "What steps does adidas take to secure my personal information?",
+    "input": "[Document Clause]: Personal information collected at our Website is stored in reasonably secure operating environments that are not available to the public. In order to help protect your personal information, you should be careful about providing your adidas account password to others. If you wish to cancel your adiClub account, log into your account online, select Account, then",
+    "output": "Adidas uses reasonable security measures, including secure storage and operational environments, to protect your information. Users are also advised to safeguard their passwords and contact customer service in case of unauthorized use."
+  },
+  {
+    "instruction": "What happens if adidas updates its privacy policy?",
+    "input": "[Document Clause]: If there are material changes to this Policy or to how adidas will use your personal information, we will provide you with additional notice (such as by adding a statement to the Website or sending you a notification. We encourage you to review this Policy regularly to remain informed about our information practices and the choices available to you.",
+    "output": "When adidas updates its privacy policy, the 'last updated' date is revised. For material changes, adidas provides additional notice via the website or direct notifications. Users are encouraged to review the policy regularly."
+  },
+  {
+    "instruction": "How can I delete my adiClub account?",
+    "input": "[Document Clause]: Personal information collected at our Website is stored in reasonably secure operating environments that are not available to the public. In order to help protect your personal information, you should be careful about providing your adidas account password to others. If you wish to cancel your adiClub account, log into your account online, select Account, then",
+    "output": "To delete your adiClub account, log in online, go to 'Account', then 'Personal Information', and select 'Delete Account'."
+  },
+  {
+    "instruction": "Is adidas’ website meant for international users?",
+    "input": "[Document Clause]: How does this policy apply to international users? The Website that links to this Policy is intended for users in the United States. If you choose to provide adidas with your information, you consent to the transfer and storage of that information on our servers located in the United States and around the world. The information collected by",
+    "output": "Adidas' website is intended for U.S. users. By using it, international users consent to the transfer and processing of their data in the U.S. under U.S. laws, which may differ from the laws in their own countries."
+  }
+
+]

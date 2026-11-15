@@ -1,0 +1,27 @@
+[
+  {
+    "instruction": "How many devices can stream Netflix at the same time?", 
+    "input": "[Document Clause]: No relevant clause was found.", 
+    "output": "I couldn't find any relevant information about this in the document."
+  },
+  {
+    "instruction": "Does Netflix offer a discount for students?", 
+    "input": "[Document Clause]: No relevant clause was found.", 
+    "output": "I couldn't find any relevant information about this in the document."
+  },
+  {
+    "instruction": "How do I cancel my Netflix subscription and get a refund?", 
+    "input": "[Document Clause]: No relevant clause was found.", 
+    "output": "I couldn't find any relevant information about this in the document."
+  },
+  {
+    "instruction": "Which payment methods does Netflix accept?", 
+    "input": "[Document Clause]: No relevant clause was found.", 
+    "output": "I couldn't find any relevant information about this in the document."
+  },
+  {
+    "instruction": "Does Netflix offer a free trial period?", 
+    "input": "[Document Clause]: No relevant clause was found.", 
+    "output": "I couldn't find any relevant information about this in the document."
+  }
+]

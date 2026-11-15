@@ -1,0 +1,27 @@
+[
+  {
+    "instruction": "Is there a limit on how long a video can be on TikTok?", 
+    "input": "[Document Clause]: No relevant clause was found.", 
+    "output": "I couldn't find any relevant information about this in the document."
+  },
+  {
+    "instruction": "What is the minimum payout amount for TikTok creators?", 
+    "input": "[Document Clause]: No relevant clause was found.", 
+    "output": "I couldn't find any relevant information about this in the document."
+  },
+  {
+    "instruction": "How many strikes does a user get before TikTok bans their account for copyright violations?", 
+    "input": "[Document Clause]: No relevant clause was found.", 
+    "output": "I couldn't find any relevant information about this in the document."
+  },
+  {
+    "instruction": "How many followers do I need to go live on TikTok?", 
+    "input": "[Document Clause]: No relevant clause was found.", 
+    "output": "I couldn't find any relevant information about this in the document."
+  },
+  {
+    "instruction": "Can I schedule a video to be posted later on TikTok?", 
+    "input": "[Document Clause]: No relevant clause was found.", 
+    "output": "I couldn't find any relevant information about this in the document."
+  }
+]

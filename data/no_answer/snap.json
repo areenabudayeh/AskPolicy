@@ -1,0 +1,27 @@
+[
+  {
+    "instruction": "Can I schedule a Snap to be sent at a later time?", 
+    "input": "[Document Clause]: No relevant clause was found.", 
+    "output": "I couldn't find any relevant information about this in the document."
+  },
+  {
+    "instruction": "How long does Snap take to fulfill a data download request?", 
+    "input": "[Document Clause]: No relevant clause was found.", 
+    "output": "I couldn't find any relevant information about this in the document."
+  },
+  {
+    "instruction": "How much does a Snapchat premium subscription cost per month?", 
+    "input": "[Document Clause]: No relevant clause was found.", 
+    "output": "I couldn't find any relevant information about this in the document."
+  },
+  {
+    "instruction": "How do I turn on Ghost Mode on Snap Map?", 
+    "input": "[Document Clause]: No relevant clause was found.", 
+    "output": "I couldn't find any relevant information about this in the document."
+  },
+  {
+    "instruction": "How many days in a row do I need to send Snaps to start a Streak?", 
+    "input": "[Document Clause]: No relevant clause was found.", 
+    "output": "I couldn't find any relevant information about this in the document."
+  }
+]

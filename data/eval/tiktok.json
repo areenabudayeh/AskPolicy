@@ -1,0 +1,260 @@
+[
+  {
+    "instruction": "What types of personal details does the platform collect during registration?",
+    "input": "[Document Clause]: Your account information. You give us information when you register on the Platform, including your username, password, date of birth (where applicable), email address and/or telephone number, information you disclose in your user account, and your photograph or profile video.",
+    "output": "The platform collects your username, password, date of birth (where applicable), email address and/or phone number, disclosed account information, and your photo or profile video."
+  },
+  {
+    "instruction": "Is providing a profile video mandatory when creating an account?",
+    "input": "[Document Clause]: Your account information. You give us information when you register on the Platform, including your username, password, date of birth (where applicable), email address and/or telephone number, information you disclose in your user account, and your photograph or profile video.",
+    "output": "No, providing a profile video is optional."
+  },
+  {
+    "instruction": "Does the platform collect your date of birth?",
+    "input": "[Document Clause]: Your account information. You give us information when you register on the Platform, including your username, password, date of birth (where applicable), email address and/or telephone number, information you disclose in your user account, and your photograph or profile video.",
+    "output": "Yes, the platform may collect your date of birth if applicable."
+  },
+  {
+    "instruction": "Is the email address or phone number part of the registration information?",
+    "input": "[Document Clause]: Your account information. You give us information when you register on the Platform, including your username, password, date of birth (where applicable), email address and/or telephone number, information you disclose in your user account, and your photograph or profile video.",
+    "output": "Yes, users are required to provide either an email address or phone number."
+  },
+  {
+    "instruction": "What visual elements can users provide as part of their account information?",
+    "input": "[Document Clause]: Your account information. You give us information when you register on the Platform, including your username, password, date of birth (where applicable), email address and/or telephone number, information you disclose in your user account, and your photograph or profile video.",
+    "output": "Users can provide a photograph or a profile video."
+  },
+  {
+    "instruction": "Is information disclosed within the user account also collected?",
+    "input": "[Document Clause]: Your account information. You give us information when you register on the Platform, including your username, password, date of birth (where applicable), email address and/or telephone number, information you disclose in your user account, and your photograph or profile video.",
+    "output": "Yes, information that users disclose in their account is collected."
+  },
+  {
+    "instruction": "Which types of contact details are users expected to provide?",
+    "input": "[Document Clause]: Your account information. You give us information when you register on the Platform, including your username, password, date of birth (where applicable), email address and/or telephone number, information you disclose in your user account, and your photograph or profile video.",
+    "output": "Users are expected to provide an email address and/or a telephone number."
+  },
+  {
+    "instruction": "Does the platform ask for login credentials during registration?",
+    "input": "[Document Clause]: Your account information. You give us information when you register on the Platform, including your username, password, date of birth (where applicable), email address and/or telephone number, information you disclose in your user account, and your photograph or profile video.",
+    "output": "Yes, the platform asks for a username and password during registration."
+  },
+  {
+    "instruction": "What types of content are included under User Content on the platform?",
+    "input": "[Document Clause]: User content. We process the content you generate on the Platform, including photographs, audios and videos you upload or create, comments, hashtags, feedback, reviews, and livestreams you make, and the associated metadata, such as when, where, and by whom the content was created (“User Content”). Even if you are not a user, information about you may appear in User Content created or published by users on the Platform. We collect User Content through pre-loading at the time of creation, import, or upload, regardless of whether you choose to save or upload that User Content, in order to recommend audio options and provide other personalized recommendations. If you apply an effect to your User Content, we may collect a version of your User Content that does not include the effect.",
+    "output": "User Content includes photographs, audio, videos, comments, hashtags, feedback, reviews, livestreams, and related metadata like time, location, and author."
+  },
+  {
+    "instruction": "Does the platform collect metadata related to user content?",
+    "input": "[Document Clause]: User content. We process the content you generate on the Platform, including photographs, audios and videos you upload or create, comments, hashtags, feedback, reviews, and livestreams you make, and the associated metadata, such as when, where, and by whom the content was created (“User Content”). Even if you are not a user, information about you may appear in User Content created or published by users on the Platform. We collect User Content through pre-loading at the time of creation, import, or upload, regardless of whether you choose to save or upload that User Content, in order to recommend audio options and provide other personalized recommendations. If you apply an effect to your User Content, we may collect a version of your User Content that does not include the effect.",
+    "output": "Yes, the platform collects metadata such as when, where, and by whom the content was created."
+  },
+  {
+    "instruction": "Can information about non-users appear in user content?",
+    "input": "[Document Clause]: User content. We process the content you generate on the Platform, including photographs, audios and videos you upload or create, comments, hashtags, feedback, reviews, and livestreams you make, and the associated metadata, such as when, where, and by whom the content was created (“User Content”). Even if you are not a user, information about you may appear in User Content created or published by users on the Platform. We collect User Content through pre-loading at the time of creation, import, or upload, regardless of whether you choose to save or upload that User Content, in order to recommend audio options and provide other personalized recommendations. If you apply an effect to your User Content, we may collect a version of your User Content that does not include the effect.",
+    "output": "Yes, even if you are not a user, information about you may appear in content created by users."
+  },
+  {
+    "instruction": "When does the platform collect user content?",
+    "input": "[Document Clause]: User content. We process the content you generate on the Platform, including photographs, audios and videos you upload or create, comments, hashtags, feedback, reviews, and livestreams you make, and the associated metadata, such as when, where, and by whom the content was created (“User Content”). Even if you are not a user, information about you may appear in User Content created or published by users on the Platform. We collect User Content through pre-loading at the time of creation, import, or upload, regardless of whether you choose to save or upload that User Content, in order to recommend audio options and provide other personalized recommendations. If you apply an effect to your User Content, we may collect a version of your User Content that does not include the effect.",
+    "output": "User Content is collected at the time of creation, import, or upload, even if the user does not save or upload it."
+  },
+  {
+    "instruction": "Why does the platform collect user content before it's uploaded?",
+    "input": "[Document Clause]: User content. We process the content you generate on the Platform, including photographs, audios and videos you upload or create, comments, hashtags, feedback, reviews, and livestreams you make, and the associated metadata, such as when, where, and by whom the content was created (“User Content”). Even if you are not a user, information about you may appear in User Content created or published by users on the Platform. We collect User Content through pre-loading at the time of creation, import, or upload, regardless of whether you choose to save or upload that User Content, in order to recommend audio options and provide other personalized recommendations. If you apply an effect to your User Content, we may collect a version of your User Content that does not include the effect.",
+    "output": "The platform collects User Content before it's uploaded to recommend audio options and provide personalized recommendations."
+  },
+  {
+    "instruction": "Does the platform store user content without the applied effects?",
+    "input": "[Document Clause]: User content. We process the content you generate on the Platform, including photographs, audios and videos you upload or create, comments, hashtags, feedback, reviews, and livestreams you make, and the associated metadata, such as when, where, and by whom the content was created (“User Content”). Even if you are not a user, information about you may appear in User Content created or published by users on the Platform. We collect User Content through pre-loading at the time of creation, import, or upload, regardless of whether you choose to save or upload that User Content, in order to recommend audio options and provide other personalized recommendations. If you apply an effect to your User Content, we may collect a version of your User Content that does not include the effect.",
+    "output": "Yes, the platform may collect a version of user content without the applied effect."
+  },
+  {
+    "instruction": "What is pre-loading in the context of user content collection?",
+    "input": "[Document Clause]: User content. We process the content you generate on the Platform, including photographs, audios and videos you upload or create, comments, hashtags, feedback, reviews, and livestreams you make, and the associated metadata, such as when, where, and by whom the content was created (“User Content”). Even if you are not a user, information about you may appear in User Content created or published by users on the Platform. We collect User Content through pre-loading at the time of creation, import, or upload, regardless of whether you choose to save or upload that User Content, in order to recommend audio options and provide other personalized recommendations. If you apply an effect to your User Content, we may collect a version of your User Content that does not include the effect.",
+    "output": "Pre-loading refers to the collection of user content during creation, import, or upload, even if the user does not choose to save or upload the content."
+  },
+  {
+    "instruction": "What type of messaging data does the platform collect?",
+    "input": "[Document Clause]: Messages. We collect information you provide when you compose, send, or receive messages through the Platform’s messaging functionalities and the associated metadata, subject to applicable laws. They include messages you send or receive through our chat functionality when communicating with sellers who sell goods to you, and your use of virtual assistants when purchasing items through the Platform. That information includes the content of the message and information about the message, such as when it was sent, received, or read, and message participants. Please be aware that messages you choose to send to other users of the Platform will be accessible by those users and that we are not responsible for the manner in which those users use or share the messages.",
+    "output": "The platform collects the content of the message and metadata such as when it was sent, received, or read, and who the participants were."
+  },
+  {
+    "instruction": "Does the platform collect metadata associated with messages?",
+    "input": "[Document Clause]: Messages. We collect information you provide when you compose, send, or receive messages through the Platform’s messaging functionalities and the associated metadata, subject to applicable laws. They include messages you send or receive through our chat functionality when communicating with sellers who sell goods to you, and your use of virtual assistants when purchasing items through the Platform. That information includes the content of the message and information about the message, such as when it was sent, received, or read, and message participants. Please be aware that messages you choose to send to other users of the Platform will be accessible by those users and that we are not responsible for the manner in which those users use or share the messages.",
+    "output": "Yes, the platform collects metadata about messages, including time sent, received, or read, and the participants involved."
+  },
+  {
+    "instruction": "Are messages with sellers collected by the platform?",
+    "input": "[Document Clause]: Messages. We collect information you provide when you compose, send, or receive messages through the Platform’s messaging functionalities and the associated metadata, subject to applicable laws. They include messages you send or receive through our chat functionality when communicating with sellers who sell goods to you, and your use of virtual assistants when purchasing items through the Platform. That information includes the content of the message and information about the message, such as when it was sent, received, or read, and message participants. Please be aware that messages you choose to send to other users of the Platform will be accessible by those users and that we are not responsible for the manner in which those users use or share the messages.",
+    "output": "Yes, messages exchanged with sellers on the platform are collected."
+  },
+  {
+    "instruction": "Does the platform collect messages sent through virtual assistants?",
+    "input": "[Document Clause]: Messages. We collect information you provide when you compose, send, or receive messages through the Platform’s messaging functionalities and the associated metadata, subject to applicable laws. They include messages you send or receive through our chat functionality when communicating with sellers who sell goods to you, and your use of virtual assistants when purchasing items through the Platform. That information includes the content of the message and information about the message, such as when it was sent, received, or read, and message participants. Please be aware that messages you choose to send to other users of the Platform will be accessible by those users and that we are not responsible for the manner in which those users use or share the messages.",
+    "output": "Yes, the platform collects messages sent through virtual assistants during purchases."
+  },
+  {
+    "instruction": "Are users responsible for how others use the messages they receive?",
+    "input": "[Document Clause]: Messages. We collect information you provide when you compose, send, or receive messages through the Platform’s messaging functionalities and the associated metadata, subject to applicable laws. They include messages you send or receive through our chat functionality when communicating with sellers who sell goods to you, and your use of virtual assistants when purchasing items through the Platform. That information includes the content of the message and information about the message, such as when it was sent, received, or read, and message participants. Please be aware that messages you choose to send to other users of the Platform will be accessible by those users and that we are not responsible for the manner in which those users use or share the messages.",
+    "output": "Yes, users are responsible for how others use or share the messages they receive."
+  },
+  {
+    "instruction": "Are messages sent to other users accessible by them?",
+    "input": "[Document Clause]: Messages. We collect information you provide when you compose, send, or receive messages through the Platform’s messaging functionalities and the associated metadata, subject to applicable laws. They include messages you send or receive through our chat functionality when communicating with sellers who sell goods to you, and your use of virtual assistants when purchasing items through the Platform. That information includes the content of the message and information about the message, such as when it was sent, received, or read, and message participants. Please be aware that messages you choose to send to other users of the Platform will be accessible by those users and that we are not responsible for the manner in which those users use or share the messages.",
+    "output": "Yes, messages you send to other users on the platform are accessible to those users."
+  },
+  {
+    "instruction": "What information about a message is collected besides the content?",
+    "input": "[Document Clause]: Messages. We collect information you provide when you compose, send, or receive messages through the Platform’s messaging functionalities and the associated metadata, subject to applicable laws. They include messages you send or receive through our chat functionality when communicating with sellers who sell goods to you, and your use of virtual assistants when purchasing items through the Platform. That information includes the content of the message and information about the message, such as when it was sent, received, or read, and message participants. Please be aware that messages you choose to send to other users of the Platform will be accessible by those users and that we are not responsible for the manner in which those users use or share the messages.",
+    "output": "The platform collects when the message was sent, received, or read, and who the participants were."
+  },
+  {
+    "instruction": "Can TikTok access data from my device’s clipboard?",
+    "input": "[Document Clause]: We may access content, including text, images, and video, found in your device’s clipboard, with your permission. For example, if you choose to initiate content sharing with a third-party platform, or choose to paste content from the clipboard into the Platform, we access this information stored in your clipboard in order to fulfill your request.",
+    "output": "Yes, TikTok may access content from your device’s clipboard with your permission, especially when you paste content into the platform or initiate content sharing."
+  },
+  {
+    "instruction": "Under what condition does TikTok access clipboard content?",
+    "input": "[Document Clause]: We may access content, including text, images, and video, found in your device’s clipboard, with your permission. For example, if you choose to initiate content sharing with a third-party platform, or choose to paste content from the clipboard into the Platform, we access this information stored in your clipboard in order to fulfill your request.",
+    "output": "TikTok accesses clipboard content only with your permission, typically when you paste content or share it with a third-party through the app."
+  },
+  {
+    "instruction": "What types of data can TikTok access from the clipboard?",
+    "input": "[Document Clause]: We may access content, including text, images, and video, found in your device’s clipboard, with your permission. For example, if you choose to initiate content sharing with a third-party platform, or choose to paste content from the clipboard into the Platform, we access this information stored in your clipboard in order to fulfill your request.",
+    "output": "TikTok can access text, images, and video stored in your clipboard, provided you grant permission."
+  },
+  {
+    "instruction": "Why does TikTok access clipboard information?",
+    "input": "[Document Clause]: We may access content, including text, images, and video, found in your device’s clipboard, with your permission. For example, if you choose to initiate content sharing with a third-party platform, or choose to paste content from the clipboard into the Platform, we access this information stored in your clipboard in order to fulfill your request.",
+    "output": "TikTok accesses clipboard information to fulfill user requests, such as pasting content into the platform or sharing it with third-party platforms."
+  },
+  {
+    "instruction": "What information does TikTok collect when I make a purchase on the platform?",
+    "input": "[Document Clause]: Purchase information. When you make a purchase or payment on or through the Platform, including when you buy TikTok Coins or purchase goods through our shopping features, we collect information about the purchase or payment transaction, such as payment card information, billing, delivery, and contact information, and items you purchased.",
+    "output": "TikTok collects payment card details, billing, delivery, and contact information, as well as details of the items you purchased when you make a transaction on the platform."
+  },
+  {
+    "instruction": "Does TikTok collect payment card information?",
+    "input": "[Document Clause]: Purchase information. When you make a purchase or payment on or through the Platform, including when you buy TikTok Coins or purchase goods through our shopping features, we collect information about the purchase or payment transaction, such as payment card information, billing, delivery, and contact information, and items you purchased.",
+    "output": "Yes, TikTok collects payment card information when you make a purchase or payment on the platform."
+  },
+  {
+    "instruction": "Does TikTok collect data about what I buy?",
+    "input": "[Document Clause]: Purchase information. When you make a purchase or payment on or through the Platform, including when you buy TikTok Coins or purchase goods through our shopping features, we collect information about the purchase or payment transaction, such as payment card information, billing, delivery, and contact information, and items you purchased.",
+    "output": "Yes, TikTok collects data about the items you purchase through the platform."
+  },
+  {
+    "instruction": "What kind of delivery and contact data does TikTok collect during purchases?",
+    "input": "[Document Clause]: Purchase information. When you make a purchase or payment on or through the Platform, including when you buy TikTok Coins or purchase goods through our shopping features, we collect information about the purchase or payment transaction, such as payment card information, billing, delivery, and contact information, and items you purchased.",
+    "output": "TikTok collects delivery details like your address and contact information, such as your phone number or email, during purchases."
+  },
+  {
+    "instruction": "What information does TikTok collect if I sync my phone contacts?",
+    "input": "[Document Clause]: Your phone and social network contacts. If you choose to sync your phone contacts, we will access and collect information such as names, phone numbers, and email addresses, and match that information against existing users of the Platform. If you choose to share your social network contacts, we will collect your public profile information as well as names and profiles of your social network contacts.",
+    "output": "TikTok collects names, phone numbers, and email addresses from your phone contacts and matches them with existing users on the platform."
+  },
+  {
+    "instruction": "What happens when I share my social network contacts with TikTok?",
+    "input": "[Document Clause]: Your phone and social network contacts. If you choose to sync your phone contacts, we will access and collect information such as names, phone numbers, and email addresses, and match that information against existing users of the Platform. If you choose to share your social network contacts, we will collect your public profile information as well as names and profiles of your social network contacts.",
+    "output": "TikTok collects your public profile information along with the names and profiles of your social network contacts."
+  },
+  {
+    "instruction": "Does TikTok match synced phone contacts with existing users?",
+    "input": "[Document Clause]: Your phone and social network contacts. If you choose to sync your phone contacts, we will access and collect information such as names, phone numbers, and email addresses, and match that information against existing users of the Platform. If you choose to share your social network contacts, we will collect your public profile information as well as names and profiles of your social network contacts.",
+    "output": "Yes, TikTok matches synced phone contacts against existing platform users."
+  },
+  {
+    "instruction": "What types of data are collected from phone contacts?",
+    "input": "[Document Clause]: Your phone and social network contacts. If you choose to sync your phone contacts, we will access and collect information such as names, phone numbers, and email addresses, and match that information against existing users of the Platform. If you choose to share your social network contacts, we will collect your public profile information as well as names and profiles of your social network contacts.",
+    "output": "Names, phone numbers, and email addresses are collected from phone contacts."
+  },
+  {
+    "instruction": "When might TikTok ask for proof of your identity or age?",
+    "input": "[Document Clause]: Proof of your identity or age. We sometimes ask you to provide proof of identity or age in order to use certain features, such as livestream or verified accounts, or when you apply for a Business Account, ensure that you are old enough to use the Platform, or in other instances where verification may be required.",
+    "output": "TikTok may ask for proof of identity or age to use features like livestreams, verified accounts, Business Account applications, or to ensure age eligibility."
+  },
+  {
+    "instruction": "Why does TikTok require proof of identity or age?",
+    "input": "[Document Clause]: Proof of your identity or age. We sometimes ask you to provide proof of identity or age in order to use certain features, such as livestream or verified accounts, or when you apply for a Business Account, ensure that you are old enough to use the Platform, or in other instances where verification may be required.",
+    "output": "TikTok requires proof to verify eligibility for certain features and to confirm the user meets age requirements."
+  },
+  {
+    "instruction": "Is providing proof of identity mandatory for all users?",
+    "input": "[Document Clause]: Proof of your identity or age. We sometimes ask you to provide proof of identity or age in order to use certain features, such as livestream or verified accounts, or when you apply for a Business Account, ensure that you are old enough to use the Platform, or in other instances where verification may be required.",
+    "output": "No, proof of identity or age is requested only in certain cases where verification is required."
+  },
+  {
+    "instruction": "What features may require identity or age verification on TikTok?",
+    "input": "[Document Clause]: Proof of your identity or age. We sometimes ask you to provide proof of identity or age in order to use certain features, such as livestream or verified accounts, or when you apply for a Business Account, ensure that you are old enough to use the Platform, or in other instances where verification may be required.",
+    "output": "Features such as livestreaming, verified accounts, and Business Account applications may require identity or age verification."
+  },
+  {
+    "instruction": "What technical information does TikTok collect about the devices used to access the platform?",
+    "input": "[Document Clause]: Technical Information we collect about you. We collect certain information about the device you use to access the Platform, such as your IP address, user agent, mobile carrier, time zone settings, identifiers for advertising purposes, model of your device, the device system, network type, your screen resolution and operating system, app and file names and types, keystroke patterns or rhythms, battery state, audio settings and connected audio devices. We automatically assign user IDs and device IDs. Where you log-in from multiple devices, we use your information such as your device IDs and user ID to identify your activity across devices. We may also associate you with information collected from devices other than those you use to log-in to the Platform.",
+    "output": "TikTok collects IP address, user agent, mobile carrier, time zone, advertising identifiers, device model, system, network type, screen resolution, operating system, app and file info, keystroke patterns, battery state, audio settings, connected audio devices, and assigns user and device IDs."
+  },
+  {
+    "instruction": "Does TikTok assign IDs to users and devices?",
+    "input": "[Document Clause]: Technical Information we collect about you. We collect certain information about the device you use to access the Platform, such as your IP address, user agent, mobile carrier, time zone settings, identifiers for advertising purposes, model of your device, the device system, network type, your screen resolution and operating system, app and file names and types, keystroke patterns or rhythms, battery state, audio settings and connected audio devices. We automatically assign user IDs and device IDs. Where you log-in from multiple devices, we use your information such as your device IDs and user ID to identify your activity across devices. We may also associate you with information collected from devices other than those you use to log-in to the Platform.",
+    "output": "Yes, TikTok automatically assigns user IDs and device IDs."
+  },
+  {
+    "instruction": "How does TikTok track activity across multiple devices?",
+    "input": "[Document Clause]: Technical Information we collect about you. We collect certain information about the device you use to access the Platform, such as your IP address, user agent, mobile carrier, time zone settings, identifiers for advertising purposes, model of your device, the device system, network type, your screen resolution and operating system, app and file names and types, keystroke patterns or rhythms, battery state, audio settings and connected audio devices. We automatically assign user IDs and device IDs. Where you log-in from multiple devices, we use your information such as your device IDs and user ID to identify your activity across devices. We may also associate you with information collected from devices other than those you use to log-in to the Platform.",
+    "output": "TikTok uses device IDs and user IDs to identify user activity across multiple devices."
+  },
+  {
+    "instruction": "Does TikTok associate information from devices not used for login?",
+    "input": "[Document Clause]: Technical Information we collect about you. We collect certain information about the device you use to access the Platform, such as your IP address, user agent, mobile carrier, time zone settings, identifiers for advertising purposes, model of your device, the device system, network type, your screen resolution and operating system, app and file names and types, keystroke patterns or rhythms, battery state, audio settings and connected audio devices. We automatically assign user IDs and device IDs. Where you log-in from multiple devices, we use your information such as your device IDs and user ID to identify your activity across devices. We may also associate you with information collected from devices other than those you use to log-in to the Platform.",
+    "output": "Yes, TikTok may associate you with information collected from devices other than those used to log-in."
+  },
+  {
+    "instruction": "What types of device identifiers does TikTok collect for advertising purposes?",
+    "input": "[Document Clause]: Technical Information we collect about you. We collect certain information about the device you use to access the Platform, such as your IP address, user agent, mobile carrier, time zone settings, identifiers for advertising purposes, model of your device, the device system, network type, your screen resolution and operating system, app and file names and types, keystroke patterns or rhythms, battery state, audio settings and connected audio devices. We automatically assign user IDs and device IDs. Where you log-in from multiple devices, we use your information such as your device IDs and user ID to identify your activity across devices. We may also associate you with information collected from devices other than those you use to log-in to the Platform.",
+    "output": "TikTok collects identifiers for advertising purposes as part of the technical information."
+  },
+  {
+    "instruction": "What types of information does TikTok collect about videos, images, and audio in user content?",
+    "input": "[Document Clause]: Image and Audio Information. We may collect information about the videos, images and audio that are a part of your User Content, such as identifying the objects and scenery that appear, the existence and location within an image of face and body features and attributes, the nature of the audio, and the text of the words spoken in your User Content. We may collect this information to enable special video effects, for content moderation, for demographic classification, for content and ad recommendations, and for other non-personally-identifying operations. Click <HERE> to learn more.",
+    "output": "TikTok collects information about objects and scenery in videos and images, face and body features and attributes, audio nature, and spoken words text in user content."
+  },
+  {
+    "instruction": "Why does TikTok collect image and audio information from user content?",
+    "input": "[Document Clause]: Image and Audio Information. We may collect information about the videos, images and audio that are a part of your User Content, such as identifying the objects and scenery that appear, the existence and location within an image of face and body features and attributes, the nature of the audio, and the text of the words spoken in your User Content. We may collect this information to enable special video effects, for content moderation, for demographic classification, for content and ad recommendations, and for other non-personally-identifying operations. Click <HERE> to learn more.",
+    "output": "TikTok collects this information to enable special video effects, content moderation, demographic classification, content and ad recommendations, and other non-personally-identifying operations."
+  },
+  {
+    "instruction": "Does TikTok collect textual data from the audio in user content?",
+    "input": "[Document Clause]: Image and Audio Information. We may collect information about the videos, images and audio that are a part of your User Content, such as identifying the objects and scenery that appear, the existence and location within an image of face and body features and attributes, the nature of the audio, and the text of the words spoken in your User Content. We may collect this information to enable special video effects, for content moderation, for demographic classification, for content and ad recommendations, and for other non-personally-identifying operations. Click <HERE> to learn more.",
+    "output": "Yes, TikTok collects the text of words spoken in your user content audio."
+  },
+  {
+    "instruction": "Does TikTok look at faces or body parts in the videos I upload?",
+    "input": "[Document Clause]: Image and Audio Information. We may collect information about the videos, images and audio that are a part of your User Content, such as identifying the objects and scenery that appear, the existence and location within an image of face and body features and attributes, the nature of the audio, and the text of the words spoken in your User Content. We may collect this information to enable special video effects, for content moderation, for demographic classification, for content and ad recommendations, and for other non-personally-identifying operations. Click <HERE> to learn more.",
+    "output": "Yes, TikTok collects information on the existence and location of face and body features and attributes in images."
+  },
+  {
+    "instruction": "From which sources may TikTok receive information other than what I give it directly?",
+    "input": "[Document Clause]: We may receive the information described in this Privacy Policy from other sources, such as: If you choose to register or use the Platform using a third-party social network account details (e.g., Apple, Facebook, or Google) or login service, you will provide us or allow to provide us with your username, public profile, and other possible information related to such account. We will likewise share certain information with your social network such as your app ID, access token and the referring URL. If you link your TikTok account to another service, we may receive information about your use of that service.",
+    "output": "TikTok may receive information from third-party social network accounts like Apple, Facebook, or Google, and from services linked to your TikTok account."
+  },
+  {
+    "instruction": "What kind of information does TikTok get when I sign up using Google or Facebook?",
+    "input": "[Document Clause]: We may receive the information described in this Privacy Policy from other sources, such as: If you choose to register or use the Platform using a third-party social network account details (e.g., Apple, Facebook, or Google) or login service, you will provide us or allow to provide us with your username, public profile, and other possible information related to such account. We will likewise share certain information with your social network such as your app ID, access token and the referring URL. If you link your TikTok account to another service, we may receive information about your use of that service.",
+    "output": "TikTok receives your username, public profile, and possibly other related account information when you register using a third-party social network."
+  },
+  {
+    "instruction": "If I log in with Facebook, does TikTok send anything back to Facebook?",
+    "input": "[Document Clause]: We may receive the information described in this Privacy Policy from other sources, such as: If you choose to register or use the Platform using a third-party social network account details (e.g., Apple, Facebook, or Google) or login service, you will provide us or allow to provide us with your username, public profile, and other possible information related to such account. We will likewise share certain information with your social network such as your app ID, access token and the referring URL. If you link your TikTok account to another service, we may receive information about your use of that service.",
+    "output": "Yes, TikTok shares information such as your app ID, access token, and referring URL with your social network."
+  },
+  {
+    "instruction": "What happens if I link my TikTok account to another service?",
+    "input": "[Document Clause]: We may receive the information described in this Privacy Policy from other sources, such as: If you choose to register or use the Platform using a third-party social network account details (e.g., Apple, Facebook, or Google) or login service, you will provide us or allow to provide us with your username, public profile, and other possible information related to such account. We will likewise share certain information with your social network such as your app ID, access token and the referring URL. If you link your TikTok account to another service, we may receive information about your use of that service.",
+    "output": "TikTok may receive information about your usage of the linked service if you connect your TikTok account to it."
+  }
+]
+
+
+

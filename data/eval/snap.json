@@ -1,0 +1,329 @@
+[
+  {
+    "instruction": "Where can I find my account info?",
+    "input": "[Document Clause]: Access and update your information. You can access and edit most of your basic account information right in our Services. Just navigate to your settings and you will see the options available to you.",
+    "output": "You can access your account information directly within the services by navigating to your settings."
+  },
+  {
+    "instruction": "Can I change my account information?",
+    "input": "[Document Clause]: Access and update your information. You can access and edit most of your basic account information right in our Services. Just navigate to your settings and you will see the options available to you.",
+    "output": "Yes, you can edit most of your basic account information through the settings in the services."
+  },
+  {
+    "instruction": "Where do I go to update things like my basic account details?",
+    "input": "[Document Clause]: Access and update your information. You can access and edit most of your basic account information right in our Services. Just navigate to your settings and you will see the options available to you.",
+    "output": "You can change your basic account details by navigating to the settings section in the services."
+  },
+  {
+    "instruction": "If I'm using the mobile app, can I still change my info?",
+    "input": "[Document Clause]: Access and update your information. You can access and edit most of your basic account information right in our Services. Just navigate to your settings and you will see the options available to you.",
+    "output": "Yes, you can update your personal information directly through the app by going to your settings."
+  },
+  {
+    "instruction": "Do I need help from customer support to make account changes?",
+    "input": "[Document Clause]: Access and update your information. You can access and edit most of your basic account information right in our Services. Just navigate to your settings and you will see the options available to you.",
+    "output": "No, you can edit most of your account information yourself by navigating to the settings in the services."
+  },
+  {
+    "instruction": "What type of account information can I update?",
+    "input": "[Document Clause]: Access and update your information. You can access and edit most of your basic account information right in our Services. Just navigate to your settings and you will see the options available to you.",
+    "output": "You can update most of your basic account information through the settings in the services."
+  },
+  {
+    "instruction": "How can I delete my Snapchat account?",
+    "input": "[Document Clause]: Delete your information. If you want to delete your account, learn how here. You can also delete some information within our Services, like content you’ve saved to Memories, content you’ve shared with My AI, Spotlight submissions, and more.",
+    "output": "You can learn how to delete your account by following the provided instructions. Some information can also be deleted within the services."
+  },
+  {
+    "instruction": "Is it possible to delete content saved in Memories?",
+    "input": "[Document Clause]: Delete your information. If you want to delete your account, learn how here. You can also delete some information within our Services, like content you’ve saved to Memories, content you’ve shared with My AI, Spotlight submissions, and more.",
+    "output": "Yes, you can delete content saved to Memories within the services."
+  },
+  {
+    "instruction": "Can I delete data shared with My AI?",
+    "input": "[Document Clause]: Delete your information. If you want to delete your account, learn how here. You can also delete some information within our Services, like content you’ve saved to Memories, content you’ve shared with My AI, Spotlight submissions, and more.",
+    "output": "Yes, content shared with My AI can be deleted within the services."
+  },
+  {
+    "instruction": "What kind of information can be deleted from Snapchat?",
+    "input": "[Document Clause]: Delete your information. If you want to delete your account, learn how here. You can also delete some information within our Services, like content you’ve saved to Memories, content you’ve shared with My AI, Spotlight submissions, and more.",
+    "output": "You can delete your account, and also delete information such as Memories, My AI conversations, Spotlight submissions, and more."
+  },
+  {
+    "instruction": "Do I need external help to delete my Snapchat data?",
+    "input": "[Document Clause]: Delete your information. If you want to delete your account, learn how here. You can also delete some information within our Services, like content you’ve saved to Memories, content you’ve shared with My AI, Spotlight submissions, and more.",
+    "output": "No, you can delete your data directly within Snapchat services, including Memories, My AI content, and more."
+  },
+  {
+    "instruction": "Where can I find instructions to delete my Snapchat account?",
+    "input": "[Document Clause]: Delete your information. If you want to delete your account, learn how here. You can also delete some information within our Services, like content you’ve saved to Memories, content you’ve shared with My AI, Spotlight submissions, and more.",
+    "output": "You can find instructions on how to delete your account by following the 'learn how here' link mentioned in the policy."
+  },
+  {
+    "instruction": "Can I control who sees my content on Snapchat?",
+    "input": "[Document Clause]: Control who can see your content. We’ve built a number of tools that let you choose who you share your content with. In some cases you may want to share content with your friends, and in other instances you may want to share it with the public. To learn more, go here.",
+    "output": "Yes, Snapchat provides tools that let you control who can see your content."
+  },
+  {
+    "instruction": "How does Snapchat allow users to manage content visibility?",
+    "input": "[Document Clause]: Control who can see your content. We’ve built a number of tools that let you choose who you share your content with. In some cases you may want to share content with your friends, and in other instances you may want to share it with the public. To learn more, go here.",
+    "output": "Snapchat offers tools that allow users to choose whether to share their content with friends or the public."
+  },
+  {
+    "instruction": "Is it possible to share my content with only my friends on Snapchat?",
+    "input": "[Document Clause]: Control who can see your content. We’ve built a number of tools that let you choose who you share your content with. In some cases you may want to share content with your friends, and in other instances you may want to share it with the public. To learn more, go here.",
+    "output": "Yes, Snapchat allows you to share your content with only your friends if you choose."
+  },
+  {
+    "instruction": "Can Snapchat content be shared with the public?",
+    "input": "[Document Clause]: Control who can see your content. We’ve built a number of tools that let you choose who you share your content with. In some cases you may want to share content with your friends, and in other instances you may want to share it with the public. To learn more, go here.",
+    "output": "Yes, you can choose to share your content with the public if you prefer."
+  },
+  {
+    "instruction": "Where can I find more information about controlling visibility of my content?",
+    "input": "[Document Clause]: Control who can see your content. We’ve built a number of tools that let you choose who you share your content with. In some cases you may want to share content with your friends, and in other instances you may want to share it with the public. To learn more, go here.",
+    "output": "You can learn more by following the 'go here' link provided in the document."
+  },
+  {
+    "instruction": "What tools does Snapchat provide to manage who sees my content?",
+    "input": "[Document Clause]: Control who can see your content. We’ve built a number of tools that let you choose who you share your content with. In some cases you may want to share content with your friends, and in other instances you may want to share it with the public. To learn more, go here.",
+    "output": "Snapchat provides tools that let you decide whether your content is shared with friends or the public."
+  },
+  {
+    "instruction": "Can I control who is allowed to contact me on Snapchat?",
+    "input": "[Document Clause]: Control who can contact you. Snapchat is intended for close friends and family, that’s why we’ve built controls that help you decide who can contact you. If you receive unwanted communications, you can always block and report that person. Go here to learn more.",
+    "output": "Yes, Snapchat provides controls to help you decide who can contact you."
+  },
+  {
+    "instruction": "What can I do if someone I don’t want contacts me on Snapchat?",
+    "input": "[Document Clause]: Control who can contact you. Snapchat is intended for close friends and family, that’s why we’ve built controls that help you decide who can contact you. If you receive unwanted communications, you can always block and report that person. Go here to learn more.",
+    "output": "If someone you don’t want contacts you, you can block and report them on Snapchat."
+  },
+  {
+    "instruction": "Why does Snapchat include controls for who can contact me?",
+    "input": "[Document Clause]: Control who can contact you. Snapchat is intended for close friends and family, that’s why we’ve built controls that help you decide who can contact you. If you receive unwanted communications, you can always block and report that person. Go here to learn more.",
+    "output": "Because Snapchat is designed for close friends and family, it includes controls that let you choose who can contact you."
+  },
+  {
+    "instruction": "Is it possible to block someone on Snapchat?",
+    "input": "[Document Clause]: Control who can contact you. Snapchat is intended for close friends and family, that’s why we’ve built controls that help you decide who can contact you. If you receive unwanted communications, you can always block and report that person. Go here to learn more.",
+    "output": "Yes, you can block someone on Snapchat if they send you unwanted messages."
+  },
+  {
+    "instruction": "How does Snapchat help me handle unwanted messages?",
+    "input": "[Document Clause]: Control who can contact you. Snapchat is intended for close friends and family, that’s why we’ve built controls that help you decide who can contact you. If you receive unwanted communications, you can always block and report that person. Go here to learn more.",
+    "output": "Snapchat allows you to block and report users who send you unwanted messages."
+  },
+  {
+    "instruction": "Where can I learn more about controlling who contacts me on Snapchat?",
+    "input": "[Document Clause]: Control who can contact you. Snapchat is intended for close friends and family, that’s why we’ve built controls that help you decide who can contact you. If you receive unwanted communications, you can always block and report that person. Go here to learn more.",
+    "output": "You can learn more about controlling who contacts you by following the 'go here' link in the document."
+  },
+  {
+    "instruction": "Can I change my Snapchat permissions at any time?",
+    "input": "[Document Clause]: Change your permissions. In most cases, you can change your permissions at any time. For example, by default you are findable to others through your phone number and/or email address that you provided. If you no longer want to be findable, you can always change your settings. Or if you provided access to your phone or third party platform contacts to make friending easier, you can change that later on in your app settings. Of course, if you do that, certain features and Services, like finding friends in your contact book, won’t work.",
+    "output": "Yes, in most cases you can change your permissions at any time through your app settings."
+  },
+  {
+    "instruction": "How can I stop people from finding me on Snapchat using my phone number?",
+    "input": "[Document Clause]: Change your permissions. In most cases, you can change your permissions at any time. For example, by default you are findable to others through your phone number and/or email address that you provided. If you no longer want to be findable, you can always change your settings. Or if you provided access to your phone or third party platform contacts to make friending easier, you can change that later on in your app settings. Of course, if you do that, certain features and Services, like finding friends in your contact book, won’t work.",
+    "output": "You can stop people from finding you through your phone number by changing your settings in the app."
+  },
+  {
+    "instruction": "What happens if I disable contact syncing in Snapchat?",
+    "input": "[Document Clause]: Change your permissions. In most cases, you can change your permissions at any time. For example, by default you are findable to others through your phone number and/or email address that you provided. If you no longer want to be findable, you can always change your settings. Or if you provided access to your phone or third party platform contacts to make friending easier, you can change that later on in your app settings. Of course, if you do that, certain features and Services, like finding friends in your contact book, won’t work.",
+    "output": "If you disable contact syncing, features like finding friends from your contact book may not work."
+  },
+  {
+    "instruction": "Can I change who can find me on Snapchat using my email address?",
+    "input": "[Document Clause]: Change your permissions. In most cases, you can change your permissions at any time. For example, by default you are findable to others through your phone number and/or email address that you provided. If you no longer want to be findable, you can always change your settings. Or if you provided access to your phone or third party platform contacts to make friending easier, you can change that later on in your app settings. Of course, if you do that, certain features and Services, like finding friends in your contact book, won’t work.",
+    "output": "Yes, you can change your settings to stop others from finding you using your email address."
+  },
+  {
+    "instruction": "What are the consequences of changing permissions in the Snapchat app?",
+    "input": "[Document Clause]: Change your permissions. In most cases, you can change your permissions at any time. For example, by default you are findable to others through your phone number and/or email address that you provided. If you no longer want to be findable, you can always change your settings. Or if you provided access to your phone or third party platform contacts to make friending easier, you can change that later on in your app settings. Of course, if you do that, certain features and Services, like finding friends in your contact book, won’t work.",
+    "output": "Changing permissions may disable features such as finding friends from your contact book."
+  },
+  {
+    "instruction": "Where in Snapchat can I adjust permissions related to contacts and visibility?",
+    "input": "[Document Clause]: Change your permissions. In most cases, you can change your permissions at any time. For example, by default you are findable to others through your phone number and/or email address that you provided. If you no longer want to be findable, you can always change your settings. Or if you provided access to your phone or third party platform contacts to make friending easier, you can change that later on in your app settings. Of course, if you do that, certain features and Services, like finding friends in your contact book, won’t work.",
+    "output": "You can adjust these permissions in the app settings."
+  },
+  {
+    "instruction": "Can I opt out of receiving promotional messages from Snapchat?",
+    "input": "[Document Clause]: Opt out of promotional messages. You have the option to opt out or unsubscribe from promotional emails and messages sent by SMS or other messaging platforms. To do so, just follow the instructions in the message like an unsubscribe link or similar functionality.",
+    "output": "Yes, you can opt out of promotional messages by following the unsubscribe instructions in the message."
+  },
+  {
+    "instruction": "How do I unsubscribe from promotional emails sent by Snapchat?",
+    "input": "[Document Clause]: Opt out of promotional messages. You have the option to opt out or unsubscribe from promotional emails and messages sent by SMS or other messaging platforms. To do so, just follow the instructions in the message like an unsubscribe link or similar functionality.",
+    "output": "You can unsubscribe by clicking the unsubscribe link or using similar options provided in the message."
+  },
+  {
+    "instruction": "Is it possible to stop receiving Snapchat marketing messages via SMS?",
+    "input": "[Document Clause]: Opt out of promotional messages. You have the option to opt out or unsubscribe from promotional emails and messages sent by SMS or other messaging platforms. To do so, just follow the instructions in the message like an unsubscribe link or similar functionality.",
+    "output": "Yes, you can opt out of marketing messages sent via SMS by following the instructions in the message."
+  },
+  {
+    "instruction": "What should I do if I no longer want promotional content from Snapchat?",
+    "input": "[Document Clause]: Opt out of promotional messages. You have the option to opt out or unsubscribe from promotional emails and messages sent by SMS or other messaging platforms. To do so, just follow the instructions in the message like an unsubscribe link or similar functionality.",
+    "output": "If you no longer want promotional content, you can unsubscribe using the link or option provided in the message."
+  },
+  {
+    "instruction": "Does Snapchat provide a way to unsubscribe from marketing messages?",
+    "input": "[Document Clause]: Opt out of promotional messages. You have the option to opt out or unsubscribe from promotional emails and messages sent by SMS or other messaging platforms. To do so, just follow the instructions in the message like an unsubscribe link or similar functionality.",
+    "output": "Yes, Snapchat includes an unsubscribe link or similar function in promotional messages."
+  },
+  {
+    "instruction": "Are unsubscribe instructions included in Snapchat’s promotional messages?",
+    "input": "[Document Clause]: Opt out of promotional messages. You have the option to opt out or unsubscribe from promotional emails and messages sent by SMS or other messaging platforms. To do so, just follow the instructions in the message like an unsubscribe link or similar functionality.",
+    "output": "Yes, unsubscribe instructions are included in the promotional messages you receive."
+  },
+  {
+    "instruction": "Can I change my advertising preferences on Snapchat?",
+    "input": "[Document Clause]: Set advertising preferences. We try to show you ads that we think will be relevant to your interests, but if you’d like to have a less personalized experience, you can change your advertising settings in the Snapchat app. Learn more here.",
+    "output": "Yes, you can change your advertising settings in the Snapchat app to adjust your preferences."
+  },
+  {
+    "instruction": "Where can I update my ad personalization settings in Snapchat?",
+    "input": "[Document Clause]: Set advertising preferences. We try to show you ads that we think will be relevant to your interests, but if you’d like to have a less personalized experience, you can change your advertising settings in the Snapchat app. Learn more here.",
+    "output": "You can update your ad personalization settings in the Snapchat app."
+  },
+  {
+    "instruction": "What happens if I change my advertising preferences on Snapchat?",
+    "input": "[Document Clause]: Set advertising preferences. We try to show you ads that we think will be relevant to your interests, but if you’d like to have a less personalized experience, you can change your advertising settings in the Snapchat app. Learn more here.",
+    "output": "If you change your advertising preferences, you will receive less personalized ads."
+  },
+  {
+    "instruction": "Does Snapchat show personalized ads by default?",
+    "input": "[Document Clause]: Set advertising preferences. We try to show you ads that we think will be relevant to your interests, but if you’d like to have a less personalized experience, you can change your advertising settings in the Snapchat app. Learn more here.",
+    "output": "Yes, by default Snapchat shows ads that it believes are relevant to your interests."
+  },
+  {
+    "instruction": "Can I choose to see less personalized ads on Snapchat?",
+    "input": "[Document Clause]: Set advertising preferences. We try to show you ads that we think will be relevant to your interests, but if you’d like to have a less personalized experience, you can change your advertising settings in the Snapchat app. Learn more here.",
+    "output": "Yes, you can opt for a less personalized ad experience by adjusting your settings in the app."
+  },
+  {
+    "instruction": "How does Snapchat decide which ads to show me?",
+    "input": "[Document Clause]: Set advertising preferences. We try to show you ads that we think will be relevant to your interests, but if you’d like to have a less personalized experience, you can change your advertising settings in the Snapchat app. Learn more here.",
+    "output": "Snapchat tries to show you ads based on what it believes will be relevant to your interests."
+  },
+  {
+    "instruction": "Is it possible to opt out of interest-based ads in Snapchat?",
+    "input": "[Document Clause]: Set advertising preferences. We try to show you ads that we think will be relevant to your interests, but if you’d like to have a less personalized experience, you can change your advertising settings in the Snapchat app. Learn more here.",
+    "output": "Yes, you can opt out of interest-based ads by adjusting your advertising settings in the Snapchat app."
+  },
+  
+  {
+    "instruction": "What account details does Snapchat ask for when setting up an account?",
+    "input": "[Document Clause]: Information You Provide\nMany of our Services require you to set up an account. To do this, we ask you to provide us with account details (information about you, like your name, username, email address, birthday, and phone number). When you set up your profile, you’ll also provide us with profile details (like your Bitmoji and profile picture). If you use our commerce products to buy something, like those latest sneakers, we may ask you for payment and related information (like your physical address, so we can ship the product to you, payment information, so we can process the payment, and transaction history).",
+    "output": "Snapchat asks for account details including your name, username, email address, birthday, and phone number."
+  },
+  {
+    "instruction": "What profile details does Snapchat collect?",
+    "input": "[Document Clause]: Information You Provide\nMany of our Services require you to set up an account. To do this, we ask you to provide us with account details (information about you, like your name, username, email address, birthday, and phone number). When you set up your profile, you’ll also provide us with profile details (like your Bitmoji and profile picture). If you use our commerce products to buy something, like those latest sneakers, we may ask you for payment and related information (like your physical address, so we can ship the product to you, payment information, so we can process the payment, and transaction history).",
+    "output": "Snapchat collects profile details such as your Bitmoji and profile picture."
+  },
+  {
+    "instruction": "Does Snapchat collect payment information when I purchase products?",
+    "input": "[Document Clause]: Information You Provide\nMany of our Services require you to set up an account. To do this, we ask you to provide us with account details (information about you, like your name, username, email address, birthday, and phone number). When you set up your profile, you’ll also provide us with profile details (like your Bitmoji and profile picture). If you use our commerce products to buy something, like those latest sneakers, we may ask you for payment and related information (like your physical address, so we can ship the product to you, payment information, so we can process the payment, and transaction history).",
+    "output": "Yes, when you purchase products, Snapchat may collect payment information and related details such as your physical address and transaction history."
+  },
+  {
+    "instruction": "What kind of transaction history does Snapchat collect?",
+    "input": "[Document Clause]: Information You Provide\nMany of our Services require you to set up an account. To do this, we ask you to provide us with account details (information about you, like your name, username, email address, birthday, and phone number). When you set up your profile, you’ll also provide us with profile details (like your Bitmoji and profile picture). If you use our commerce products to buy something, like those latest sneakers, we may ask you for payment and related information (like your physical address, so we can ship the product to you, payment information, so we can process the payment, and transaction history).",
+    "output": "Snapchat may collect your transaction history related to your purchases."
+  },
+  {
+    "instruction": "Why does Snapchat ask for my physical address?",
+    "input": "[Document Clause]: Information You Provide\nMany of our Services require you to set up an account. To do this, we ask you to provide us with account details (information about you, like your name, username, email address, birthday, and phone number). When you set up your profile, you’ll also provide us with profile details (like your Bitmoji and profile picture). If you use our commerce products to buy something, like those latest sneakers, we may ask you for payment and related information (like your physical address, so we can ship the product to you, payment information, so we can process the payment, and transaction history).",
+    "output": "Snapchat asks for your physical address to be able to ship products you purchase."
+  },
+  {
+    "instruction": "What kind of information do I provide through Snapchat’s services?",
+    "input": "[Document Clause]: Of course, you’ll also provide us with information you send through or save within our Services, including content and information about that content, and content you share and generate with our AI Features (content, or “Inputs,” including text, images, video, audio, precise location, and engagement, used to generate content and responses, or “Outputs”). We consider some of this information to be private content and communications (like Snaps and Chats with friends, voice and video calls, and content that is saved in My Eyes Only)",
+    "output": "You provide content and related information including text, images, video, audio, precise location, and engagement, both through direct sharing and AI features."
+  },
+  {
+    "instruction": "What are examples of private content and communications on Snapchat?",
+    "input": "[Document Clause]: Of course, you’ll also provide us with information you send through or save within our Services, including content and information about that content, and content you share and generate with our AI Features (content, or “Inputs,” including text, images, video, audio, precise location, and engagement, used to generate content and responses, or “Outputs”). We consider some of this information to be private content and communications (like Snaps and Chats with friends, voice and video calls, and content that is saved in My Eyes Only)",
+    "output": "Examples include Snaps and Chats with friends, voice and video calls, and content saved in My Eyes Only."
+  },
+  {
+    "instruction": "Does Snapchat collect data from AI-generated content?",
+    "input": "[Document Clause]: Of course, you’ll also provide us with information you send through or save within our Services, including content and information about that content, and content you share and generate with our AI Features (content, or “Inputs,” including text, images, video, audio, precise location, and engagement, used to generate content and responses, or “Outputs”). We consider some of this information to be private content and communications (like Snaps and Chats with friends, voice and video calls, and content that is saved in My Eyes Only)",
+    "output": "Yes, Snapchat collects content shared and generated with AI features, including inputs like text, images, and precise location."
+  },
+  {
+    "instruction": "What types of content are considered private by Snapchat?",
+    "input": "[Document Clause]: Of course, you’ll also provide us with information you send through or save within our Services, including content and information about that content, and content you share and generate with our AI Features (content, or “Inputs,” including text, images, video, audio, precise location, and engagement, used to generate content and responses, or “Outputs”). We consider some of this information to be private content and communications (like Snaps and Chats with friends, voice and video calls, and content that is saved in My Eyes Only)",
+    "output": "Snapchat considers Snaps and Chats with friends, voice and video calls, and content saved in My Eyes Only as private content."
+  },
+  {
+    "instruction": "What kind of usage information does Snapchat collect?",
+    "input": "[Document Clause]: Information We Generate When You Use Our Services\n\nThis includes usage information (information about how you interact with our Services — for example, which Lenses you view and apply, your premium subscriptions, Stories you watch, and how often you interact with other Snapchatters) and content information (information about content you create or provide, your engagement with the camera and creative tools, your interactions with My AI, and metadata — for example, information about the content itself like the date and time it was posted and who viewed it). Content information includes information based on the content of the image, video, or audio — so if you post a Spotlight of a basketball game, we may use that information to show you more content on Spotlight about basketball.",
+    "output": "Snapchat collects usage information such as which Lenses you view and apply, your premium subscriptions, Stories you watch, and your interactions with other Snapchatters."
+  },
+  {
+    "instruction": "What kind of content information does Snapchat generate?",
+    "input": "[Document Clause]: Information We Generate When You Use Our Services\n\nThis includes usage information (information about how you interact with our Services — for example, which Lenses you view and apply, your premium subscriptions, Stories you watch, and how often you interact with other Snapchatters) and content information (information about content you create or provide, your engagement with the camera and creative tools, your interactions with My AI, and metadata — for example, information about the content itself like the date and time it was posted and who viewed it). Content information includes information based on the content of the image, video, or audio — so if you post a Spotlight of a basketball game, we may use that information to show you more content on Spotlight about basketball.",
+    "output": "Snapchat generates content information about the content you create or provide, your engagement with creative tools and My AI, and metadata such as date, time, and viewers."
+  },
+  {
+    "instruction": "How does Snapchat use information about the content I post?",
+    "input": "[Document Clause]: Information We Generate When You Use Our Services\n\nThis includes usage information (information about how you interact with our Services — for example, which Lenses you view and apply, your premium subscriptions, Stories you watch, and how often you interact with other Snapchatters) and content information (information about content you create or provide, your engagement with the camera and creative tools, your interactions with My AI, and metadata — for example, information about the content itself like the date and time it was posted and who viewed it). Content information includes information based on the content of the image, video, or audio — so if you post a Spotlight of a basketball game, we may use that information to show you more content on Spotlight about basketball.",
+    "output": "Snapchat may use information about the content you post, such as a basketball game Spotlight, to show you more related content."
+  },
+  {
+    "instruction": "What metadata does Snapchat collect about my content?",
+    "input": "[Document Clause]: Information We Generate When You Use Our Services\n\nThis includes usage information (information about how you interact with our Services — for example, which Lenses you view and apply, your premium subscriptions, Stories you watch, and how often you interact with other Snapchatters) and content information (information about content you create or provide, your engagement with the camera and creative tools, your interactions with My AI, and metadata — for example, information about the content itself like the date and time it was posted and who viewed it). Content information includes information based on the content of the image, video, or audio — so if you post a Spotlight of a basketball game, we may use that information to show you more content on Spotlight about basketball.",
+    "output": "Snapchat collects metadata such as the date and time content was posted and information about who viewed it."
+  },
+  {
+    "instruction": "What additional device information may Snapchat collect if I grant device-level permissions?",
+    "input": "[Document Clause]: If you’ve explicitly granted device-level permissions, device information may also include information about your device phonebook (contacts and related information), images and other information from your device’s camera, photos, and microphone (like the ability to take photos, videos, view stored photos and videos, and access the microphone to record audio while recording video), and location information (precise location through methods like GPS signals).",
+    "output": "Snapchat may collect contacts, images, camera and microphone data, and precise location if you grant device-level permissions."
+  },
+  {
+    "instruction": "Does Snapchat access my contacts if I grant permission?",
+    "input": "[Document Clause]: If you’ve explicitly granted device-level permissions, device information may also include information about your device phonebook (contacts and related information), images and other information from your device’s camera, photos, and microphone (like the ability to take photos, videos, view stored photos and videos, and access the microphone to record audio while recording video), and location information (precise location through methods like GPS signals).",
+    "output": "Yes, if you grant permission, Snapchat may access your device phonebook contacts and related information."
+  },
+  {
+    "instruction": "What camera and microphone data can Snapchat collect with permission?",
+    "input": "[Document Clause]: If you’ve explicitly granted device-level permissions, device information may also include information about your device phonebook (contacts and related information), images and other information from your device’s camera, photos, and microphone (like the ability to take photos, videos, view stored photos and videos, and access the microphone to record audio while recording video), and location information (precise location through methods like GPS signals).",
+    "output": "With permission, Snapchat can collect photos, videos, stored media, and audio recordings made while recording video."
+  },
+  {
+    "instruction": "How does Snapchat collect precise location information?",
+    "input": "[Document Clause]: If you’ve explicitly granted device-level permissions, device information may also include information about your device phonebook (contacts and related information), images and other information from your device’s camera, photos, and microphone (like the ability to take photos, videos, view stored photos and videos, and access the microphone to record audio while recording video), and location information (precise location through methods like GPS signals).",
+    "output": "Snapchat collects precise location through methods such as GPS signals when device-level permissions are granted."
+  },
+  {
+    "instruction": "What device information does Snapchat collect?",
+    "input": "[Document Clause]: This also includes device information (such as your hardware or software, operating system, device memory, advertising identifiers, apps installed, browser type, information from device sensors that measure the motion of your device or compasses and microphones, including whether you have headphones connected, and information about your wireless and mobile connections), location information (IP address), information collected by cookies and similar technologies, depending on your settings, (cookies, pixels (small graphic data that recognize user activity, such as if and how often a user has visited a website), web storage, unique advertising identifiers), and log information (such as details about how you’ve used our Services, access times, pages viewed, IP address, and unique identifiers like cookies).",
+    "output": "Snapchat collects device information including hardware/software details, operating system, device memory, advertising identifiers, installed apps, browser type, sensor data, headphone connection status, and wireless/mobile connection info."
+  },
+  {
+    "instruction": "Does Snapchat collect location information?",
+    "input": "[Document Clause]: This also includes device information (such as your hardware or software, operating system, device memory, advertising identifiers, apps installed, browser type, information from device sensors that measure the motion of your device or compasses and microphones, including whether you have headphones connected, and information about your wireless and mobile connections), location information (IP address), information collected by cookies and similar technologies, depending on your settings, (cookies, pixels (small graphic data that recognize user activity, such as if and how often a user has visited a website), web storage, unique advertising identifiers), and log information (such as details about how you’ve used our Services, access times, pages viewed, IP address, and unique identifiers like cookies).",
+    "output": "Yes, Snapchat collects location information such as your IP address."
+  },
+  {
+    "instruction": "What technologies does Snapchat use to collect information about my activity?",
+    "input": "[Document Clause]: This also includes device information (such as your hardware or software, operating system, device memory, advertising identifiers, apps installed, browser type, information from device sensors that measure the motion of your device or compasses and microphones, including whether you have headphones connected, and information about your wireless and mobile connections), location information (IP address), information collected by cookies and similar technologies, depending on your settings, (cookies, pixels (small graphic data that recognize user activity, such as if and how often a user has visited a website), web storage, unique advertising identifiers), and log information (such as details about how you’ve used our Services, access times, pages viewed, IP address, and unique identifiers like cookies).",
+    "output": "Snapchat uses cookies, pixels, web storage, and unique advertising identifiers to collect information about your activity."
+  },
+  {
+    "instruction": "What kind of log information does Snapchat collect?",
+    "input": "[Document Clause]: This also includes device information (such as your hardware or software, operating system, device memory, advertising identifiers, apps installed, browser type, information from device sensors that measure the motion of your device or compasses and microphones, including whether you have headphones connected, and information about your wireless and mobile connections), location information (IP address), information collected by cookies and similar technologies, depending on your settings, (cookies, pixels (small graphic data that recognize user activity, such as if and how often a user has visited a website), web storage, unique advertising identifiers), and log information (such as details about how you’ve used our Services, access times, pages viewed, IP address, and unique identifiers like cookies).",
+    "output": "Snapchat collects log information including details about your usage, access times, pages viewed, IP address, and unique identifiers like cookies."
+  }
+]
+
+
+
+
+
+
